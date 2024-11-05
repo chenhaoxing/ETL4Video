@@ -1,0 +1,285 @@
+[2024-11-04 13:58:47 ViCLIP-B] (main.py 300): INFO working dir: ./results/few_shot/MMA_ViCLIP-ucf-4
+[2024-11-04 13:58:47 ViCLIP-B] (main.py 304): INFO AUG:
+  COLOR_JITTER: 0.8
+  CUTMIX: 0.0
+  GRAY_SCALE: 0.2
+  LABEL_SMOOTH: 0.0
+  MIXUP: 0.0
+  MIXUP_SWITCH_PROB: 0.0
+BASE: ['']
+DATA:
+  DATASET: ucf101
+  DES_SPATIAL: description/8_s_description_ucf_101.json
+  DES_TEMPORAL: description/8_t_description_ucf_101.json
+  INPUT_SIZE: 224
+  LABEL_LIST: labels/ucf_101_labels.csv
+  NUM_CLASSES: 101
+  NUM_FRAMES: 8
+  ROOT: /mnt/new_nas/yansan/data/ucf101/videos/
+  TRAIN_FILE: datasets_splits/ucf_splits/train1_few_shot_4_new.txt
+  VAL_FILE: datasets_splits/ucf_splits/val1_new.txt
+LOCAL_RANK: 0
+MODEL:
+  ARCH: ViCLIP-B
+  DROP_PATH_RATE: 0.0
+  FIX_TEXT: True
+  PRETRAINED: None
+  RESUME: None
+OUTPUT: ./results/few_shot/MMA_ViCLIP-ucf-4
+PRINT_FREQ: 50
+SAVE_FREQ: 5
+SEED: 2048
+TEST:
+  MULTI_VIEW_INFERENCE: False
+  NUM_CLIP: 5
+  NUM_CROP: 3
+  ONLY_TEST: False
+TRAIN:
+  ACCUMULATION_STEPS: 1
+  AUTO_RESUME: False
+  BATCH_SIZE: 4
+  Cons_LOSS: True
+  EPOCHS: 50
+  LR: 0.001
+  LR_SCHEDULER: cosine
+  OPTIMIZER: adamw
+  OPT_LEVEL: O0
+  USE_CHECKPOINT: False
+  WARMUP_EPOCHS: 5
+  WEIGHT_DECAY: 0.001
+  clip_ratio: 0.07
+TRAINER:
+  MMADAPTER:
+    ADAPTER_DIM: 128
+    ADAPTER_END: 12
+    ADAPTER_SCALE: 0.005
+    ADAPTER_START: 8
+    CTX_INIT: a photo of a
+    DES_N: 8
+  MoTE:
+    interaction: 5
+    num_experts: 4
+    sim_header: Transf
+    temporal_layer: 4
+  ViCLIP:
+    CTX_INIT: a photo of a
+    PROMPT_MODEL: False
+    ZS_EVAL: False
+  ViFi_CLIP:
+    CTX_INIT: a photo of a
+    N_CTX_TEXT: 0
+    N_CTX_VISION: 0
+    PROMPT_DEPTH_TEXT: 1
+    PROMPT_DEPTH_VISION: 0
+    PROMPT_MODEL: False
+    USE: both
+    ZS_EVAL: False
+[2024-11-04 13:58:48 ViCLIP-B] (MMA_trainer.py 330): INFO Loading ViCLIP
+[2024-11-04 13:58:50 ViCLIP-B] (MMA_trainer.py 333): INFO Building Adapter Tuning ViCLIP
+[2024-11-04 13:58:50 ViCLIP-B] (MMA_trainer.py 342): INFO Total learnable parameters: 1.744 MB
+[2024-11-04 13:58:55 ViCLIP-B] (main.py 211): INFO Train: [0/50][0/12]	eta 0:00:50 lr 0.000000000	time 4.2077 (4.2077)	tot_loss 4.8980 (4.8980)	mem 7291MB
+[2024-11-04 13:58:58 ViCLIP-B] (main.py 218): INFO EPOCH 0 training takes 0:00:07
+[2024-11-04 13:58:58 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 13:59:05 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 50.000	
+[2024-11-04 13:59:36 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 62.745	
+[2024-11-04 14:00:06 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 66.832	
+[2024-11-04 14:00:36 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 68.543	
+[2024-11-04 14:01:06 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 70.398	
+[2024-11-04 14:01:28 ViCLIP-B] (main.py 275): INFO  * Acc@1 71.451 Acc@5 90.996
+[2024-11-04 14:01:28 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 71.5%
+[2024-11-04 14:01:28 ViCLIP-B] (main.py 125): INFO Max accuracy: 71.45%
+[2024-11-04 14:01:33 ViCLIP-B] (tools.py 61): INFO ./results/few_shot/MMA_ViCLIP-ucf-4/best.pth saved !!!
+[2024-11-04 14:01:35 ViCLIP-B] (main.py 211): INFO Train: [1/50][0/12]	eta 0:00:19 lr 0.000200000	time 1.5846 (1.5846)	tot_loss 2.1710 (2.1710)	mem 11237MB
+[2024-11-04 14:01:38 ViCLIP-B] (main.py 218): INFO EPOCH 1 training takes 0:00:04
+[2024-11-04 14:01:40 ViCLIP-B] (main.py 211): INFO Train: [2/50][0/12]	eta 0:00:30 lr 0.000400000	time 2.5248 (2.5248)	tot_loss 1.9382 (1.9382)	mem 11237MB
+[2024-11-04 14:01:46 ViCLIP-B] (main.py 218): INFO EPOCH 2 training takes 0:00:08
+[2024-11-04 14:01:48 ViCLIP-B] (main.py 211): INFO Train: [3/50][0/12]	eta 0:00:26 lr 0.000600000	time 2.1868 (2.1868)	tot_loss 0.6745 (0.6745)	mem 11237MB
+[2024-11-04 14:01:51 ViCLIP-B] (main.py 218): INFO EPOCH 3 training takes 0:00:04
+[2024-11-04 14:01:53 ViCLIP-B] (main.py 211): INFO Train: [4/50][0/12]	eta 0:00:24 lr 0.000800000	time 2.0472 (2.0472)	tot_loss 0.9709 (0.9709)	mem 11237MB
+[2024-11-04 14:01:56 ViCLIP-B] (main.py 218): INFO EPOCH 4 training takes 0:00:04
+[2024-11-04 14:01:58 ViCLIP-B] (main.py 211): INFO Train: [5/50][0/12]	eta 0:00:26 lr 0.000975773	time 2.2252 (2.2252)	tot_loss 0.4552 (0.4552)	mem 11237MB
+[2024-11-04 14:02:04 ViCLIP-B] (main.py 218): INFO EPOCH 5 training takes 0:00:08
+[2024-11-04 14:02:04 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:02:09 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:02:40 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 79.412	
+[2024-11-04 14:03:10 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 80.693	
+[2024-11-04 14:03:40 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 82.119	
+[2024-11-04 14:04:10 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 82.090	
+[2024-11-04 14:04:33 ViCLIP-B] (main.py 275): INFO  * Acc@1 81.700 Acc@5 97.908
+[2024-11-04 14:04:33 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 81.7%
+[2024-11-04 14:04:33 ViCLIP-B] (main.py 125): INFO Max accuracy: 81.70%
+[2024-11-04 14:04:38 ViCLIP-B] (tools.py 61): INFO ./results/few_shot/MMA_ViCLIP-ucf-4/best.pth saved !!!
+[2024-11-04 14:04:39 ViCLIP-B] (main.py 211): INFO Train: [6/50][0/12]	eta 0:00:17 lr 0.000965239	time 1.4383 (1.4383)	tot_loss 0.3710 (0.3710)	mem 11237MB
+[2024-11-04 14:04:42 ViCLIP-B] (main.py 218): INFO EPOCH 6 training takes 0:00:04
+[2024-11-04 14:04:44 ViCLIP-B] (main.py 211): INFO Train: [7/50][0/12]	eta 0:00:23 lr 0.000952889	time 1.9375 (1.9375)	tot_loss 0.5194 (0.5194)	mem 11237MB
+[2024-11-04 14:04:47 ViCLIP-B] (main.py 218): INFO EPOCH 7 training takes 0:00:04
+[2024-11-04 14:04:49 ViCLIP-B] (main.py 211): INFO Train: [8/50][0/12]	eta 0:00:24 lr 0.000938772	time 2.0427 (2.0427)	tot_loss 0.6049 (0.6049)	mem 11237MB
+[2024-11-04 14:04:55 ViCLIP-B] (main.py 218): INFO EPOCH 8 training takes 0:00:07
+[2024-11-04 14:04:57 ViCLIP-B] (main.py 211): INFO Train: [9/50][0/12]	eta 0:00:27 lr 0.000922942	time 2.2956 (2.2956)	tot_loss 0.5671 (0.5671)	mem 11237MB
+[2024-11-04 14:05:03 ViCLIP-B] (main.py 218): INFO EPOCH 9 training takes 0:00:08
+[2024-11-04 14:05:05 ViCLIP-B] (main.py 211): INFO Train: [10/50][0/12]	eta 0:00:27 lr 0.000905463	time 2.2863 (2.2863)	tot_loss 0.2415 (0.2415)	mem 11237MB
+[2024-11-04 14:05:11 ViCLIP-B] (main.py 218): INFO EPOCH 10 training takes 0:00:08
+[2024-11-04 14:05:11 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:05:16 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:05:46 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 92.157	
+[2024-11-04 14:06:16 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 89.109	
+[2024-11-04 14:06:46 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 88.079	
+[2024-11-04 14:07:16 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 86.318	
+[2024-11-04 14:07:42 ViCLIP-B] (main.py 275): INFO  * Acc@1 86.891 Acc@5 98.438
+[2024-11-04 14:07:42 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 86.9%
+[2024-11-04 14:07:42 ViCLIP-B] (main.py 125): INFO Max accuracy: 86.89%
+[2024-11-04 14:07:47 ViCLIP-B] (tools.py 61): INFO ./results/few_shot/MMA_ViCLIP-ucf-4/best.pth saved !!!
+[2024-11-04 14:07:49 ViCLIP-B] (main.py 211): INFO Train: [11/50][0/12]	eta 0:00:18 lr 0.000886404	time 1.5535 (1.5535)	tot_loss 1.2274 (1.2274)	mem 11237MB
+[2024-11-04 14:07:51 ViCLIP-B] (main.py 218): INFO EPOCH 11 training takes 0:00:04
+[2024-11-04 14:07:54 ViCLIP-B] (main.py 211): INFO Train: [12/50][0/12]	eta 0:00:27 lr 0.000865839	time 2.2732 (2.2732)	tot_loss 1.0346 (1.0346)	mem 11237MB
+[2024-11-04 14:07:59 ViCLIP-B] (main.py 218): INFO EPOCH 12 training takes 0:00:08
+[2024-11-04 14:08:02 ViCLIP-B] (main.py 211): INFO Train: [13/50][0/12]	eta 0:00:24 lr 0.000843851	time 2.0511 (2.0511)	tot_loss 0.1915 (0.1915)	mem 11237MB
+[2024-11-04 14:08:04 ViCLIP-B] (main.py 218): INFO EPOCH 13 training takes 0:00:04
+[2024-11-04 14:08:07 ViCLIP-B] (main.py 211): INFO Train: [14/50][0/12]	eta 0:00:27 lr 0.000820525	time 2.2956 (2.2956)	tot_loss 0.1790 (0.1790)	mem 11237MB
+[2024-11-04 14:08:13 ViCLIP-B] (main.py 218): INFO EPOCH 14 training takes 0:00:08
+[2024-11-04 14:08:15 ViCLIP-B] (main.py 211): INFO Train: [15/50][0/12]	eta 0:00:25 lr 0.000795954	time 2.1193 (2.1193)	tot_loss 0.2327 (0.2327)	mem 11237MB
+[2024-11-04 14:08:18 ViCLIP-B] (main.py 218): INFO EPOCH 15 training takes 0:00:05
+[2024-11-04 14:08:18 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:08:23 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:08:56 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 91.176	
+[2024-11-04 14:09:26 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 88.119	
+[2024-11-04 14:09:56 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 87.086	
+[2024-11-04 14:10:26 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 86.567	
+[2024-11-04 14:10:47 ViCLIP-B] (main.py 275): INFO  * Acc@1 88.003 Acc@5 98.305
+[2024-11-04 14:10:47 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 88.0%
+[2024-11-04 14:10:47 ViCLIP-B] (main.py 125): INFO Max accuracy: 88.00%
+[2024-11-04 14:10:53 ViCLIP-B] (tools.py 61): INFO ./results/few_shot/MMA_ViCLIP-ucf-4/best.pth saved !!!
+[2024-11-04 14:10:54 ViCLIP-B] (main.py 211): INFO Train: [16/50][0/12]	eta 0:00:18 lr 0.000770234	time 1.5656 (1.5656)	tot_loss 0.4502 (0.4502)	mem 11237MB
+[2024-11-04 14:10:57 ViCLIP-B] (main.py 218): INFO EPOCH 16 training takes 0:00:04
+[2024-11-04 14:10:59 ViCLIP-B] (main.py 211): INFO Train: [17/50][0/12]	eta 0:00:25 lr 0.000743468	time 2.1648 (2.1648)	tot_loss 0.2036 (0.2036)	mem 11237MB
+[2024-11-04 14:11:05 ViCLIP-B] (main.py 218): INFO EPOCH 17 training takes 0:00:08
+[2024-11-04 14:11:07 ViCLIP-B] (main.py 211): INFO Train: [18/50][0/12]	eta 0:00:24 lr 0.000715761	time 2.0532 (2.0532)	tot_loss 0.2113 (0.2113)	mem 11237MB
+[2024-11-04 14:11:10 ViCLIP-B] (main.py 218): INFO EPOCH 18 training takes 0:00:05
+[2024-11-04 14:11:12 ViCLIP-B] (main.py 211): INFO Train: [19/50][0/12]	eta 0:00:24 lr 0.000687222	time 2.0495 (2.0495)	tot_loss 0.2294 (0.2294)	mem 11237MB
+[2024-11-04 14:11:16 ViCLIP-B] (main.py 218): INFO EPOCH 19 training takes 0:00:06
+[2024-11-04 14:11:19 ViCLIP-B] (main.py 211): INFO Train: [20/50][0/12]	eta 0:00:24 lr 0.000657963	time 2.0723 (2.0723)	tot_loss 0.5327 (0.5327)	mem 11237MB
+[2024-11-04 14:11:22 ViCLIP-B] (main.py 218): INFO EPOCH 20 training takes 0:00:05
+[2024-11-04 14:11:22 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:11:26 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:11:56 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 90.196	
+[2024-11-04 14:12:26 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 91.584	
+[2024-11-04 14:12:56 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 88.742	
+[2024-11-04 14:13:26 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 89.801	
+[2024-11-04 14:13:48 ViCLIP-B] (main.py 275): INFO  * Acc@1 88.877 Acc@5 98.729
+[2024-11-04 14:13:48 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 88.9%
+[2024-11-04 14:13:48 ViCLIP-B] (main.py 125): INFO Max accuracy: 88.88%
+[2024-11-04 14:13:54 ViCLIP-B] (tools.py 61): INFO ./results/few_shot/MMA_ViCLIP-ucf-4/best.pth saved !!!
+[2024-11-04 14:13:55 ViCLIP-B] (main.py 211): INFO Train: [21/50][0/12]	eta 0:00:17 lr 0.000628101	time 1.4897 (1.4897)	tot_loss 0.2713 (0.2713)	mem 11237MB
+[2024-11-04 14:13:58 ViCLIP-B] (main.py 218): INFO EPOCH 21 training takes 0:00:04
+[2024-11-04 14:14:00 ViCLIP-B] (main.py 211): INFO Train: [22/50][0/12]	eta 0:00:25 lr 0.000597754	time 2.0898 (2.0898)	tot_loss 0.2228 (0.2228)	mem 11237MB
+[2024-11-04 14:14:03 ViCLIP-B] (main.py 218): INFO EPOCH 22 training takes 0:00:04
+[2024-11-04 14:14:05 ViCLIP-B] (main.py 211): INFO Train: [23/50][0/12]	eta 0:00:23 lr 0.000567040	time 1.9445 (1.9445)	tot_loss 0.1961 (0.1961)	mem 11237MB
+[2024-11-04 14:14:08 ViCLIP-B] (main.py 218): INFO EPOCH 23 training takes 0:00:04
+[2024-11-04 14:14:10 ViCLIP-B] (main.py 211): INFO Train: [24/50][0/12]	eta 0:00:24 lr 0.000536081	time 2.0782 (2.0782)	tot_loss 0.1696 (0.1696)	mem 11237MB
+[2024-11-04 14:14:13 ViCLIP-B] (main.py 218): INFO EPOCH 24 training takes 0:00:04
+[2024-11-04 14:14:15 ViCLIP-B] (main.py 211): INFO Train: [25/50][0/12]	eta 0:00:24 lr 0.000505000	time 2.0748 (2.0748)	tot_loss 0.9720 (0.9720)	mem 11237MB
+[2024-11-04 14:14:21 ViCLIP-B] (main.py 218): INFO EPOCH 25 training takes 0:00:08
+[2024-11-04 14:14:21 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:14:24 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:14:55 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 90.196	
+[2024-11-04 14:15:25 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 89.604	
+[2024-11-04 14:15:54 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 90.728	
+[2024-11-04 14:16:25 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 89.552	
+[2024-11-04 14:16:50 ViCLIP-B] (main.py 275): INFO  * Acc@1 88.639 Acc@5 98.649
+[2024-11-04 14:16:50 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 88.6%
+[2024-11-04 14:16:50 ViCLIP-B] (main.py 125): INFO Max accuracy: 88.88%
+[2024-11-04 14:16:52 ViCLIP-B] (main.py 211): INFO Train: [26/50][0/12]	eta 0:00:24 lr 0.000473919	time 2.0420 (2.0420)	tot_loss 0.1898 (0.1898)	mem 11237MB
+[2024-11-04 14:16:54 ViCLIP-B] (main.py 218): INFO EPOCH 26 training takes 0:00:04
+[2024-11-04 14:16:56 ViCLIP-B] (main.py 211): INFO Train: [27/50][0/12]	eta 0:00:24 lr 0.000442960	time 2.0524 (2.0524)	tot_loss 0.4651 (0.4651)	mem 11237MB
+[2024-11-04 14:16:59 ViCLIP-B] (main.py 218): INFO EPOCH 27 training takes 0:00:04
+[2024-11-04 14:17:01 ViCLIP-B] (main.py 211): INFO Train: [28/50][0/12]	eta 0:00:25 lr 0.000412246	time 2.1050 (2.1050)	tot_loss 0.2090 (0.2090)	mem 11237MB
+[2024-11-04 14:17:07 ViCLIP-B] (main.py 218): INFO EPOCH 28 training takes 0:00:08
+[2024-11-04 14:17:10 ViCLIP-B] (main.py 211): INFO Train: [29/50][0/12]	eta 0:00:28 lr 0.000381899	time 2.3630 (2.3630)	tot_loss 0.3804 (0.3804)	mem 11237MB
+[2024-11-04 14:17:13 ViCLIP-B] (main.py 218): INFO EPOCH 29 training takes 0:00:06
+[2024-11-04 14:17:16 ViCLIP-B] (main.py 211): INFO Train: [30/50][0/12]	eta 0:00:25 lr 0.000352037	time 2.0933 (2.0933)	tot_loss 0.8812 (0.8812)	mem 11237MB
+[2024-11-04 14:17:22 ViCLIP-B] (main.py 218): INFO EPOCH 30 training takes 0:00:08
+[2024-11-04 14:17:22 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:17:25 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:17:56 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 89.216	
+[2024-11-04 14:18:26 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 91.089	
+[2024-11-04 14:18:56 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 90.728	
+[2024-11-04 14:19:26 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 90.299	
+[2024-11-04 14:19:50 ViCLIP-B] (main.py 275): INFO  * Acc@1 89.831 Acc@5 98.676
+[2024-11-04 14:19:50 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 89.8%
+[2024-11-04 14:19:50 ViCLIP-B] (main.py 125): INFO Max accuracy: 89.83%
+[2024-11-04 14:19:55 ViCLIP-B] (tools.py 61): INFO ./results/few_shot/MMA_ViCLIP-ucf-4/best.pth saved !!!
+[2024-11-04 14:19:56 ViCLIP-B] (main.py 211): INFO Train: [31/50][0/12]	eta 0:00:17 lr 0.000322778	time 1.4873 (1.4873)	tot_loss 0.2700 (0.2700)	mem 11237MB
+[2024-11-04 14:19:59 ViCLIP-B] (main.py 218): INFO EPOCH 31 training takes 0:00:04
+[2024-11-04 14:20:01 ViCLIP-B] (main.py 211): INFO Train: [32/50][0/12]	eta 0:00:25 lr 0.000294239	time 2.0973 (2.0973)	tot_loss 0.2432 (0.2432)	mem 11237MB
+[2024-11-04 14:20:04 ViCLIP-B] (main.py 218): INFO EPOCH 32 training takes 0:00:04
+[2024-11-04 14:20:06 ViCLIP-B] (main.py 211): INFO Train: [33/50][0/12]	eta 0:00:28 lr 0.000266532	time 2.3569 (2.3569)	tot_loss 0.1532 (0.1532)	mem 11237MB
+[2024-11-04 14:20:09 ViCLIP-B] (main.py 218): INFO EPOCH 33 training takes 0:00:05
+[2024-11-04 14:20:11 ViCLIP-B] (main.py 211): INFO Train: [34/50][0/12]	eta 0:00:24 lr 0.000239766	time 2.0416 (2.0416)	tot_loss 0.1692 (0.1692)	mem 11237MB
+[2024-11-04 14:20:14 ViCLIP-B] (main.py 218): INFO EPOCH 34 training takes 0:00:04
+[2024-11-04 14:20:16 ViCLIP-B] (main.py 211): INFO Train: [35/50][0/12]	eta 0:00:26 lr 0.000214046	time 2.2478 (2.2478)	tot_loss 0.2021 (0.2021)	mem 11237MB
+[2024-11-04 14:20:22 ViCLIP-B] (main.py 218): INFO EPOCH 35 training takes 0:00:07
+[2024-11-04 14:20:22 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:20:27 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:20:58 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 91.176	
+[2024-11-04 14:21:28 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 88.614	
+[2024-11-04 14:21:58 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 90.066	
+[2024-11-04 14:22:28 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 89.303	
+[2024-11-04 14:22:49 ViCLIP-B] (main.py 275): INFO  * Acc@1 89.698 Acc@5 98.888
+[2024-11-04 14:22:49 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 89.7%
+[2024-11-04 14:22:49 ViCLIP-B] (main.py 125): INFO Max accuracy: 89.83%
+[2024-11-04 14:22:51 ViCLIP-B] (main.py 211): INFO Train: [36/50][0/12]	eta 0:00:23 lr 0.000189475	time 1.9409 (1.9409)	tot_loss 0.1507 (0.1507)	mem 11237MB
+[2024-11-04 14:22:54 ViCLIP-B] (main.py 218): INFO EPOCH 36 training takes 0:00:04
+[2024-11-04 14:22:56 ViCLIP-B] (main.py 211): INFO Train: [37/50][0/12]	eta 0:00:25 lr 0.000166149	time 2.1093 (2.1093)	tot_loss 0.4582 (0.4582)	mem 11237MB
+[2024-11-04 14:22:59 ViCLIP-B] (main.py 218): INFO EPOCH 37 training takes 0:00:04
+[2024-11-04 14:23:01 ViCLIP-B] (main.py 211): INFO Train: [38/50][0/12]	eta 0:00:23 lr 0.000144161	time 1.9319 (1.9319)	tot_loss 0.1545 (0.1545)	mem 11237MB
+[2024-11-04 14:23:03 ViCLIP-B] (main.py 218): INFO EPOCH 38 training takes 0:00:04
+[2024-11-04 14:23:05 ViCLIP-B] (main.py 211): INFO Train: [39/50][0/12]	eta 0:00:25 lr 0.000123596	time 2.1398 (2.1398)	tot_loss 0.3056 (0.3056)	mem 11237MB
+[2024-11-04 14:23:11 ViCLIP-B] (main.py 218): INFO EPOCH 39 training takes 0:00:08
+[2024-11-04 14:23:13 ViCLIP-B] (main.py 211): INFO Train: [40/50][0/12]	eta 0:00:25 lr 0.000104537	time 2.1430 (2.1430)	tot_loss 0.2031 (0.2031)	mem 11237MB
+[2024-11-04 14:23:19 ViCLIP-B] (main.py 218): INFO EPOCH 40 training takes 0:00:08
+[2024-11-04 14:23:19 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:23:23 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:23:54 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 90.196	
+[2024-11-04 14:24:24 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 91.584	
+[2024-11-04 14:24:54 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 91.060	
+[2024-11-04 14:25:24 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 90.547	
+[2024-11-04 14:25:48 ViCLIP-B] (main.py 275): INFO  * Acc@1 90.175 Acc@5 98.967
+[2024-11-04 14:25:48 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 90.2%
+[2024-11-04 14:25:48 ViCLIP-B] (main.py 125): INFO Max accuracy: 90.17%
+[2024-11-04 14:25:54 ViCLIP-B] (tools.py 61): INFO ./results/few_shot/MMA_ViCLIP-ucf-4/best.pth saved !!!
+[2024-11-04 14:25:55 ViCLIP-B] (main.py 211): INFO Train: [41/50][0/12]	eta 0:00:18 lr 0.000087058	time 1.5815 (1.5815)	tot_loss 0.1583 (0.1583)	mem 11237MB
+[2024-11-04 14:25:58 ViCLIP-B] (main.py 218): INFO EPOCH 41 training takes 0:00:04
+[2024-11-04 14:26:00 ViCLIP-B] (main.py 211): INFO Train: [42/50][0/12]	eta 0:00:27 lr 0.000071228	time 2.2917 (2.2917)	tot_loss 0.4015 (0.4015)	mem 11237MB
+[2024-11-04 14:26:06 ViCLIP-B] (main.py 218): INFO EPOCH 42 training takes 0:00:08
+[2024-11-04 14:26:08 ViCLIP-B] (main.py 211): INFO Train: [43/50][0/12]	eta 0:00:23 lr 0.000057111	time 1.9611 (1.9611)	tot_loss 0.1791 (0.1791)	mem 11237MB
+[2024-11-04 14:26:11 ViCLIP-B] (main.py 218): INFO EPOCH 43 training takes 0:00:04
+[2024-11-04 14:26:13 ViCLIP-B] (main.py 211): INFO Train: [44/50][0/12]	eta 0:00:24 lr 0.000044761	time 2.0796 (2.0796)	tot_loss 0.1511 (0.1511)	mem 11237MB
+[2024-11-04 14:26:16 ViCLIP-B] (main.py 218): INFO EPOCH 44 training takes 0:00:04
+[2024-11-04 14:26:18 ViCLIP-B] (main.py 211): INFO Train: [45/50][0/12]	eta 0:00:25 lr 0.000034227	time 2.1450 (2.1450)	tot_loss 0.1748 (0.1748)	mem 11237MB
+[2024-11-04 14:26:23 ViCLIP-B] (main.py 218): INFO EPOCH 45 training takes 0:00:07
+[2024-11-04 14:26:23 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:26:28 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:27:00 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 91.176	
+[2024-11-04 14:27:30 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 91.089	
+[2024-11-04 14:28:00 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 90.066	
+[2024-11-04 14:28:29 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 89.801	
+[2024-11-04 14:28:50 ViCLIP-B] (main.py 275): INFO  * Acc@1 89.910 Acc@5 98.808
+[2024-11-04 14:28:50 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 89.9%
+[2024-11-04 14:28:50 ViCLIP-B] (main.py 125): INFO Max accuracy: 90.17%
+[2024-11-04 14:28:52 ViCLIP-B] (main.py 211): INFO Train: [46/50][0/12]	eta 0:00:24 lr 0.000025551	time 2.0069 (2.0069)	tot_loss 0.2039 (0.2039)	mem 11237MB
+[2024-11-04 14:28:55 ViCLIP-B] (main.py 218): INFO EPOCH 46 training takes 0:00:04
+[2024-11-04 14:28:57 ViCLIP-B] (main.py 211): INFO Train: [47/50][0/12]	eta 0:00:25 lr 0.000018768	time 2.1015 (2.1015)	tot_loss 0.1491 (0.1491)	mem 11237MB
+[2024-11-04 14:29:00 ViCLIP-B] (main.py 218): INFO EPOCH 47 training takes 0:00:04
+[2024-11-04 14:29:02 ViCLIP-B] (main.py 211): INFO Train: [48/50][0/12]	eta 0:00:24 lr 0.000013903	time 2.0563 (2.0563)	tot_loss 0.3166 (0.3166)	mem 11237MB
+[2024-11-04 14:29:05 ViCLIP-B] (main.py 218): INFO EPOCH 48 training takes 0:00:04
+[2024-11-04 14:29:07 ViCLIP-B] (main.py 211): INFO Train: [49/50][0/12]	eta 0:00:24 lr 0.000010977	time 2.0488 (2.0488)	tot_loss 0.1600 (0.1600)	mem 11237MB
+[2024-11-04 14:29:13 ViCLIP-B] (main.py 218): INFO EPOCH 49 training takes 0:00:07
+[2024-11-04 14:29:13 ViCLIP-B] (main.py 227): INFO 15 views inference
+[2024-11-04 14:29:17 ViCLIP-B] (main.py 269): INFO Test: [0/236]	Acc@1: 100.000	
+[2024-11-04 14:29:47 ViCLIP-B] (main.py 269): INFO Test: [50/236]	Acc@1: 90.196	
+[2024-11-04 14:30:17 ViCLIP-B] (main.py 269): INFO Test: [100/236]	Acc@1: 90.594	
+[2024-11-04 14:30:47 ViCLIP-B] (main.py 269): INFO Test: [150/236]	Acc@1: 89.404	
+[2024-11-04 14:31:17 ViCLIP-B] (main.py 269): INFO Test: [200/236]	Acc@1: 90.050	
+[2024-11-04 14:31:39 ViCLIP-B] (main.py 275): INFO  * Acc@1 90.042 Acc@5 98.914
+[2024-11-04 14:31:39 ViCLIP-B] (main.py 122): INFO Accuracy of the network on the 3783 test videos: 90.0%
+[2024-11-04 14:31:39 ViCLIP-B] (main.py 125): INFO Max accuracy: 90.17%
