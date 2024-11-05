@@ -1,0 +1,96 @@
+[2024-10-31 17:27:15 ViCLIP-B] (main.py 300): INFO working dir: ./results/base2novel/mma_ssv2_s1_eval
+[2024-10-31 17:27:15 ViCLIP-B] (main.py 304): INFO AUG:
+  COLOR_JITTER: 0.8
+  CUTMIX: 0.0
+  GRAY_SCALE: 0.2
+  LABEL_SMOOTH: 0.0
+  MIXUP: 0.0
+  MIXUP_SWITCH_PROB: 0.0
+BASE: ['']
+DATA:
+  DATASET: ssv2
+  DES_SPATIAL: description/2_s_description_ssv2_novel.json
+  DES_TEMPORAL: description/2_t_description_ssv2_novel.json
+  INPUT_SIZE: 224
+  LABEL_LIST: labels/ssv2_174_novel_labels.csv
+  NUM_CLASSES: 87
+  NUM_FRAMES: 8
+  ROOT: /mnt/new_nas/yansan/data/sthv2/videos/
+  TRAIN_FILE: datasets_splits/base2novel_splits/ssv2_splits/fs_base_s1_train.txt
+  VAL_FILE: datasets_splits/base2novel_splits/ssv2_splits/novel_val.txt
+LOCAL_RANK: 0
+MODEL:
+  ARCH: ViCLIP-B
+  DROP_PATH_RATE: 0.0
+  FIX_TEXT: True
+  PRETRAINED: None
+  RESUME: ./results/base2novel/mma_ssv2_s1/best.pth
+OUTPUT: ./results/base2novel/mma_ssv2_s1_eval
+PRINT_FREQ: 50
+SAVE_FREQ: 5
+SEED: 2048
+TEST:
+  MULTI_VIEW_INFERENCE: False
+  NUM_CLIP: 2
+  NUM_CROP: 3
+  ONLY_TEST: True
+TRAIN:
+  ACCUMULATION_STEPS: 1
+  AUTO_RESUME: False
+  BATCH_SIZE: 4
+  Cons_LOSS: True
+  EPOCHS: 50
+  LR: 0.001
+  LR_SCHEDULER: cosine
+  OPTIMIZER: adamw
+  OPT_LEVEL: O0
+  USE_CHECKPOINT: False
+  WARMUP_EPOCHS: 5
+  WEIGHT_DECAY: 0.001
+  clip_ratio: 0.07
+TRAINER:
+  MMADAPTER:
+    ADAPTER_DIM: 128
+    ADAPTER_END: 12
+    ADAPTER_SCALE: 0.005
+    ADAPTER_START: 8
+    CTX_INIT: a photo of a
+    DES_N: 2
+  MoTE:
+    interaction: 5
+    num_experts: 4
+    sim_header: Transf
+    temporal_layer: 4
+  ViCLIP:
+    CTX_INIT: a photo of a
+    PROMPT_MODEL: False
+    ZS_EVAL: False
+  ViFi_CLIP:
+    CTX_INIT: a photo of a
+    N_CTX_TEXT: 0
+    N_CTX_VISION: 0
+    PROMPT_DEPTH_TEXT: 1
+    PROMPT_DEPTH_VISION: 0
+    PROMPT_MODEL: False
+    USE: both
+    ZS_EVAL: False
+[2024-10-31 17:27:16 ViCLIP-B] (MMA_trainer.py 330): INFO Loading ViCLIP
+[2024-10-31 17:27:17 ViCLIP-B] (MMA_trainer.py 333): INFO Building Adapter Tuning ViCLIP
+[2024-10-31 17:27:18 ViCLIP-B] (MMA_trainer.py 342): INFO Total learnable parameters: 1.744 MB
+[2024-10-31 17:27:18 ViCLIP-B] (tools.py 65): INFO ==============> Resuming form ./results/base2novel/mma_ssv2_s1/best.pth....................
+[2024-10-31 17:27:34 ViCLIP-B] (tools.py 114): INFO resume model: _IncompatibleKeys(missing_keys=['adapter_learner.token_embedding', 'adapter_learner.tokenized_prompts', 'adapter_learner.spatil_token_embedding', 'adapter_learner.spatil_tokenized_prompts', 'adapter_learner.temporal_token_embedding', 'adapter_learner.temporal_tokenized_prompts'], unexpected_keys=[])
+[2024-10-31 17:27:34 ViCLIP-B] (tools.py 123): INFO => loaded successfully './results/base2novel/mma_ssv2_s1/best.pth' (epoch 10)
+[2024-10-31 17:27:34 ViCLIP-B] (main.py 108): INFO resetting epochs no and max. accuracy to 0 after loading pre-trained weights
+[2024-10-31 17:27:34 ViCLIP-B] (main.py 227): INFO 6 views inference
+[2024-10-31 17:27:38 ViCLIP-B] (main.py 269): INFO Test: [0/451]	Acc@1: 50.000	
+[2024-10-31 17:27:50 ViCLIP-B] (main.py 269): INFO Test: [50/451]	Acc@1: 18.627	
+[2024-10-31 17:28:02 ViCLIP-B] (main.py 269): INFO Test: [100/451]	Acc@1: 16.337	
+[2024-10-31 17:28:14 ViCLIP-B] (main.py 269): INFO Test: [150/451]	Acc@1: 15.563	
+[2024-10-31 17:28:26 ViCLIP-B] (main.py 269): INFO Test: [200/451]	Acc@1: 16.169	
+[2024-10-31 17:28:37 ViCLIP-B] (main.py 269): INFO Test: [250/451]	Acc@1: 16.534	
+[2024-10-31 17:28:49 ViCLIP-B] (main.py 269): INFO Test: [300/451]	Acc@1: 15.781	
+[2024-10-31 17:29:01 ViCLIP-B] (main.py 269): INFO Test: [350/451]	Acc@1: 16.239	
+[2024-10-31 17:29:13 ViCLIP-B] (main.py 269): INFO Test: [400/451]	Acc@1: 16.085	
+[2024-10-31 17:29:25 ViCLIP-B] (main.py 269): INFO Test: [450/451]	Acc@1: 15.632	
+[2024-10-31 17:29:25 ViCLIP-B] (main.py 275): INFO  * Acc@1 15.414 Acc@5 37.940
+[2024-10-31 17:29:25 ViCLIP-B] (main.py 113): INFO Accuracy of the network on the 7215 test videos: 15.4%
