@@ -1,0 +1,1602 @@
+{
+    "0": [
+        "A video of abseiling generally involves the following step: securing the rope, which is a sub-step.",
+        "A video of abseiling generally involves the following step: descending slowly, which is a sub-step."
+    ],
+    "1": [
+        "A video of air drumming generally involves the following step: striking imaginary drums with hands, which is a sub-step.",
+        "A video of air drumming generally involves the following step: moving hands rhythmically, which is a sub-step."
+    ],
+    "2": [
+        "A video of answering questions generally involves the following step: listening to the question, which is a sub-step.",
+        "A video of answering questions generally involves the following step: formulating a response, which is a sub-step."
+    ],
+    "3": [
+        "A video of applauding generally involves the following step: hands moving towards each other, which is a sub-step.",
+        "A video of applauding generally involves the following step: hands clapping repeatedly, which is a sub-step."
+    ],
+    "4": [
+        "A video of applying cream generally involves the following step: opening the container, which is a sub-step.",
+        "A video of applying cream generally involves the following step: spreading the cream, which is a sub-step."
+    ],
+    "5": [
+        "A video of archery generally involves the following step: drawing the bowstring, which is a sub-step.",
+        "A video of archery generally involves the following step: releasing the arrow, which is a sub-step."
+    ],
+    "6": [
+        "A video of arm wrestling generally involves the following step: gripping hands tightly, which is a sub-step.",
+        "A video of arm wrestling generally involves the following step: applying force alternately, which is a sub-step."
+    ],
+    "7": [
+        "A video of arranging flowers generally involves the following step: selecting flowers, which is a sub-step.",
+        "A video of arranging flowers generally involves the following step: arranging in a vase, which is a sub-step."
+    ],
+    "8": [
+        "A video of assembling a computer generally involves the following step: placing the motherboard in the case, which is a sub-step.",
+        "A video of assembling a computer generally involves the following step: installing the cpu and cooler, which is a sub-step."
+    ],
+    "9": [
+        "A videos of auctioning generally involves the following step: bidding starts, which is a sub-step.",
+        "A videos of auctioning generally involves the following step: final bids close, which is a sub-step."
+    ],
+    "10": [
+        "A video of baby waking up generally involves the following step: eyes fluttering open, which is a sub-step.",
+        "A video of baby waking up generally involves the following step: stretching arms and legs, which is a sub-step."
+    ],
+    "11": [
+        "A video of baking cookies generally involves the following step: mixing ingredients, which is a sub-step.",
+        "A video of baking cookies generally involves the following step: baking in the oven, which is a sub-step."
+    ],
+    "12": [
+        "A video of balloon blowing generally involves the following step: inflating the balloon, which is a sub-step.",
+        "A video of balloon blowing generally involves the following step: releasing the balloon, which is a sub-step."
+    ],
+    "13": [
+        "A video of bandaging generally involves the following step: securing the bandage, which is a sub-step.",
+        "A video of bandaging generally involves the following step: applying pressure, which is a sub-step."
+    ],
+    "14": [
+        "A video of barbequing generally involves the following step: marinating the meat overnight, which is a sub-step.",
+        "A video of barbequing generally involves the following step: grilling the meat for 20 minutes, which is a sub-step."
+    ],
+    "15": [
+        "A video of bartending generally involves the following step: pouring ingredients into a shaker, which is a sub-step.",
+        "A video of bartending generally involves the following step: shaking the shaker vigorously, which is a sub-step."
+    ],
+    "16": [
+        "A video of beatboxing generally involves the following step: rhythmic vocal percussion, which is a sub-step.",
+        "A video of beatboxing generally involves the following step: precise timing and coordination, which is a sub-step."
+    ],
+    "17": [
+        "A video of bee keeping generally involves the following step: hive inspection, which is a sub-step.",
+        "A video of bee keeping generally involves the following step: honey extraction, which is a sub-step."
+    ],
+    "18": [
+        "A video of belly dancing generally involves the following step: hip circles followed by shoulder shimmies, which is a sub-step.",
+        "A video of belly dancing generally involves the following step: arm waves preceding torso undulations, which is a sub-step."
+    ],
+    "19": [
+        "A video of bench pressing generally involves the following step: lowering the bar to the chest, which is a sub-step.",
+        "A video of bench pressing generally involves the following step: pushing the bar back up, which is a sub-step."
+    ],
+    "20": [
+        "A video of bending back generally involves the following step: initiating the movement, which is a sub-step.",
+        "A video of bending back generally involves the following step: completing the bend, which is a sub-step."
+    ],
+    "21": [
+        "A video of bending metal generally involves the following step: heating the metal to a specific temperature, which is a sub-step.",
+        "A video of bending metal generally involves the following step: applying force to the heated metal, which is a sub-step."
+    ],
+    "22": [
+        "A video of biking through snow generally involves the following step: maintaining balance while pedaling, which is a sub-step.",
+        "A video of biking through snow generally involves the following step: navigating through drifts, which is a sub-step."
+    ],
+    "23": [
+        "A video of blasting sand generally involves the following step: sand being propelled into the air, which is a sub-step.",
+        "A video of blasting sand generally involves the following step: particles settling back to the ground, which is a sub-step."
+    ],
+    "24": [
+        "A video of blowing glass generally involves the following step: heating the glass to a molten state, which is a sub-step.",
+        "A video of blowing glass generally involves the following step: shaping the molten glass with a blowpipe, which is a sub-step."
+    ],
+    "25": [
+        "A video of blowing leaves generally involves the following step: gathering leaves into a pile, which is a sub-step.",
+        "A video of blowing leaves generally involves the following step: forcefully expelling air to disperse leaves, which is a sub-step."
+    ],
+    "26": [
+        "A video of blowing nose generally involves the following step: inhaling deeply, which is a sub-step.",
+        "A video of blowing nose generally involves the following step: exhaling forcefully, which is a sub-step."
+    ],
+    "27": [
+        "A video of blowing out candles generally involves the following step: inhaling deeply, which is a sub-step.",
+        "A video of blowing out candles generally involves the following step: exhaling forcefully, which is a sub-step."
+    ],
+    "28": [
+        "A video of bobsledding generally involves the following step: pushing the sled for a short duration, which is a sub-step.",
+        "A video of bobsledding generally involves the following step: sliding down the track for an extended period, which is a sub-step."
+    ],
+    "29": [
+        "A video of bookbinding generally involves the following step: folding pages into sections, which is a sub-step.",
+        "A video of bookbinding generally involves the following step: sewing sections together, which is a sub-step."
+    ],
+    "30": [
+        "A video of bouncing on trampoline generally involves the following step: initial jump and lift-off, which is a sub-step.",
+        "A video of bouncing on trampoline generally involves the following step: mid-air suspension and descent, which is a sub-step."
+    ],
+    "31": [
+        "A video of bowling generally involves the following step: releasing the ball, which is a sub-step.",
+        "A video of bowling generally involves the following step: waiting for the pins to fall, which is a sub-step."
+    ],
+    "32": [
+        "A video of braiding hair generally involves the following step: separating sections, which is a sub-step.",
+        "A video of braiding hair generally involves the following step: intertwining sections, which is a sub-step."
+    ],
+    "33": [
+        "A video of breading generally involves the following step: coating the food in flour, which is a sub-step.",
+        "A video of breading generally involves the following step: dipping the food in egg wash, which is a sub-step."
+    ],
+    "34": [
+        "A video of breakdancing generally involves the following step: rapid footwork and spins, which is a sub-step.",
+        "A video of breakdancing generally involves the following step: controlled freezes and transitions, which is a sub-step."
+    ],
+    "35": [
+        "A video of brush painting generally involves the following step: wetting the brush, which is a sub-step.",
+        "A video of brush painting generally involves the following step: applying paint, which is a sub-step."
+    ],
+    "36": [
+        "A video of brushing hair generally involves the following step: lifting the hair from the scalp, which is a sub-step.",
+        "A video of brushing hair generally involves the following step: moving the brush through the hair, which is a sub-step."
+    ],
+    "37": [
+        "A video of brushing teeth generally involves the following step: wetting the toothbrush, which is a sub-step.",
+        "A video of brushing teeth generally involves the following step: applying toothpaste, which is a sub-step."
+    ],
+    "38": [
+        "A video of building cabinet generally involves the following step: measuring and cutting materials, which is a sub-step.",
+        "A video of building cabinet generally involves the following step: assembling and securing parts, which is a sub-step."
+    ],
+    "39": [
+        "A video of building a shed generally involves the following step: preparing the foundation, which is a sub-step.",
+        "A video of building a shed generally involves the following step: assembling the frame, which is a sub-step."
+    ],
+    "40": [
+        "A video of bungee jumping generally involves the following step: jumping off a platform, which is a sub-step.",
+        "A video of bungee jumping generally involves the following step: experiencing free fall, which is a sub-step."
+    ],
+    "41": [
+        "A videos of busking generally involves the following step: setting up instruments, which is a sub-step.",
+        "A videos of busking generally involves the following step: performing music, which is a sub-step."
+    ],
+    "42": [
+        "A video of canoeing or kayaking generally involves the following step: paddling forward, which is a sub-step.",
+        "A video of canoeing or kayaking generally involves the following step: steering the boat, which is a sub-step."
+    ],
+    "43": [
+        "A video of capoeira generally involves the following step: rapid acrobatic movements, which is a sub-step.",
+        "A video of capoeira generally involves the following step: rhythmic dance-like transitions, which is a sub-step."
+    ],
+    "44": [
+        "A video of carrying baby generally involves the following step: lifting the baby from the ground, which is a sub-step.",
+        "A video of carrying baby generally involves the following step: securing the baby in arms, which is a sub-step."
+    ],
+    "45": [
+        "A video of cartwheeling generally involves the following step: lifting one leg and extending the arms, which is a sub-step.",
+        "A video of cartwheeling generally involves the following step: rotating the body while maintaining balance, which is a sub-step."
+    ],
+    "46": [
+        "A video of carving a pumpkin generally involves the following step: cutting the top, which is a sub-step.",
+        "A video of carving a pumpkin generally involves the following step: scooping out the insides, which is a sub-step."
+    ],
+    "47": [
+        "A video of catching fish generally involves the following step: baiting the hook, which is a sub-step.",
+        "A video of catching fish generally involves the following step: waiting for a bite, which is a sub-step."
+    ],
+    "48": [
+        "A video of catching or throwing baseball generally involves the following step: ball release, which is a sub-step.",
+        "A video of catching or throwing baseball generally involves the following step: ball reception, which is a sub-step."
+    ],
+    "49": [
+        "A video of catching or throwing frisbee generally involves the following step: arm movement initiation, which is a sub-step.",
+        "A video of catching or throwing frisbee generally involves the following step: object release or catch, which is a sub-step."
+    ],
+    "50": [
+        "A video of catching or throwing softball generally involves the following step: arm movement initiation, which is a sub-step.",
+        "A video of catching or throwing softball generally involves the following step: ball release or contact, which is a sub-step."
+    ],
+    "51": [
+        "A video of celebrating generally involves the following step: gathering participants, which is a sub-step.",
+        "A video of celebrating generally involves the following step: distributing confetti, which is a sub-step."
+    ],
+    "52": [
+        "A video of changing oil generally involves the following step: draining the old oil, which is a sub-step.",
+        "A video of changing oil generally involves the following step: refilling with new oil, which is a sub-step."
+    ],
+    "53": [
+        "A video of changing wheel generally involves the following step: loosening lug nuts, which is a sub-step.",
+        "A video of changing wheel generally involves the following step: jacking up the car, which is a sub-step."
+    ],
+    "54": [
+        "A video of checking tires generally involves the following step: inspecting the tire pressure, which is a sub-step.",
+        "A video of checking tires generally involves the following step: examining the tire tread, which is a sub-step."
+    ],
+    "55": [
+        "A video of cheerleading generally involves the following step: performing synchronized jumps, which is a sub-step.",
+        "A video of cheerleading generally involves the following step: executing complex routines, which is a sub-step."
+    ],
+    "56": [
+        "A video of chopping wood generally involves the following step: selecting a suitable log, which is a sub-step.",
+        "A video of chopping wood generally involves the following step: striking the log with an axe, which is a sub-step."
+    ],
+    "57": [
+        "A video of clapping generally involves the following step: hands moving towards each other, which is a sub-step.",
+        "A video of clapping generally involves the following step: hands separating after contact, which is a sub-step."
+    ],
+    "58": [
+        "A video of clay pottery making generally involves the following step: shaping the clay on a wheel, which is a sub-step.",
+        "A video of clay pottery making generally involves the following step: drying and firing the pottery, which is a sub-step."
+    ],
+    "59": [
+        "A video of clean and jerk generally involves the following step: lifting the barbell overhead, which is a sub-step.",
+        "A video of clean and jerk generally involves the following step: stabilizing the barbell, which is a sub-step."
+    ],
+    "60": [
+        "A video of cleaning floor generally involves the following step: sweeping debris into a pile, which is a sub-step.",
+        "A video of cleaning floor generally involves the following step: mopping the wet surface, which is a sub-step."
+    ],
+    "61": [
+        "A video of cleaning gutters generally involves the following step: removing debris from the gutters, which is a sub-step.",
+        "A video of cleaning gutters generally involves the following step: flushing the gutters with water, which is a sub-step."
+    ],
+    "62": [
+        "A video of cleaning pool generally involves the following step: removing debris, which is a sub-step.",
+        "A video of cleaning pool generally involves the following step: scrubbing walls, which is a sub-step."
+    ],
+    "63": [
+        "A video of cleaning shoes generally involves the following step: removing dirt, which is a sub-step.",
+        "A video of cleaning shoes generally involves the following step: applying polish, which is a sub-step."
+    ],
+    "64": [
+        "A video of cleaning toilet generally involves the following step: applying cleaner, which is a sub-step.",
+        "A video of cleaning toilet generally involves the following step: scrubbing surface, which is a sub-step."
+    ],
+    "65": [
+        "A video of cleaning windows generally involves the following step: applying cleaning solution, which is a sub-step.",
+        "A video of cleaning windows generally involves the following step: wiping with a cloth, which is a sub-step."
+    ],
+    "66": [
+        "A video of climbing a rope generally involves the following step: gripping the rope tightly, which is a sub-step.",
+        "A video of climbing a rope generally involves the following step: pulling the body upward, which is a sub-step."
+    ],
+    "67": [
+        "A video of climbing ladder generally involves the following step: placing hands on rungs, which is a sub-step.",
+        "A video of climbing ladder generally involves the following step: lifting body upwards, which is a sub-step."
+    ],
+    "68": [
+        "A video of climbing tree generally involves the following step: grasping the trunk firmly, which is a sub-step.",
+        "A video of climbing tree generally involves the following step: lifting the body upward, which is a sub-step."
+    ],
+    "69": [
+        "A video of contact juggling generally involves the following step: ball manipulation on the body, which is a sub-step.",
+        "A video of contact juggling generally involves the following step: continuous rolling motion, which is a sub-step."
+    ],
+    "70": [
+        "A video of cooking chicken generally involves the following step: seasoning the chicken, which is a sub-step.",
+        "A video of cooking chicken generally involves the following step: cooking the seasoned chicken, which is a sub-step."
+    ],
+    "71": [
+        "A video of cooking eggs generally involves the following step: cracking eggs into a bowl, which is a sub-step.",
+        "A video of cooking eggs generally involves the following step: whisking the eggs, which is a sub-step."
+    ],
+    "72": [
+        "A video of cooking on campfire generally involves the following step: gathering firewood and kindling, which is a sub-step.",
+        "A video of cooking on campfire generally involves the following step: arranging the wood and lighting the fire, which is a sub-step."
+    ],
+    "73": [
+        "A video of cooking sausages generally involves the following step: heating oil in a pan, which is a sub-step.",
+        "A video of cooking sausages generally involves the following step: placing sausages in the pan, which is a sub-step."
+    ],
+    "74": [
+        "A video of counting money generally involves the following step: sorting bills by denomination, which is a sub-step.",
+        "A video of counting money generally involves the following step: stacking bills in groups, which is a sub-step."
+    ],
+    "75": [
+        "A video of country line dancing generally involves the following step: stepping forward and backward, which is a sub-step.",
+        "A video of country line dancing generally involves the following step: sliding feet side to side, which is a sub-step."
+    ],
+    "76": [
+        "A video of cracking neck generally involves the following step: rotating the head slowly, which is a sub-step.",
+        "A video of cracking neck generally involves the following step: applying pressure until a pop is heard, which is a sub-step."
+    ],
+    "77": [
+        "A video of crawling baby generally involves the following step: lifting the torso off the ground, which is a sub-step.",
+        "A video of crawling baby generally involves the following step: moving the legs forward, which is a sub-step."
+    ],
+    "78": [
+        "A video of crossing river generally involves the following step: stepping into the water, which is a sub-step.",
+        "A video of crossing river generally involves the following step: moving through the current, which is a sub-step."
+    ],
+    "79": [
+        "A video of crying generally involves the following step: tears forming in the eyes, which is a sub-step.",
+        "A video of crying generally involves the following step: vocalizations emerging, which is a sub-step."
+    ],
+    "80": [
+        "A video of curling hair generally involves the following step: heating the curling iron, which is a sub-step.",
+        "A video of curling hair generally involves the following step: wrapping hair around the iron, which is a sub-step."
+    ],
+    "81": [
+        "A video of cutting nails generally involves the following step: trimming the nails to desired length, which is a sub-step.",
+        "A video of cutting nails generally involves the following step: smoothing the edges with a file, which is a sub-step."
+    ],
+    "82": [
+        "A video of cutting pineapple generally involves the following step: removing the skin, which is a sub-step.",
+        "A video of cutting pineapple generally involves the following step: slicing the flesh, which is a sub-step."
+    ],
+    "83": [
+        "A video of cutting watermelon generally involves the following step: selecting a sharp knife, which is a sub-step.",
+        "A video of cutting watermelon generally involves the following step: slicing the fruit evenly, which is a sub-step."
+    ],
+    "84": [
+        "A video of dancing ballet generally involves the following step: executing graceful leaps, which is a sub-step.",
+        "A video of dancing ballet generally involves the following step: performing intricate spins, which is a sub-step."
+    ],
+    "85": [
+        "A videos of dancing charleston generally involves the following step: quick foot taps, which is a sub-step.",
+        "A videos of dancing charleston generally involves the following step: rhythmic arm swings, which is a sub-step."
+    ],
+    "86": [
+        "A video of dancing gangnam style generally involves the following step: a quick side-to-side movement, which is a sub-step.",
+        "A video of dancing gangnam style generally involves the following step: a horse-riding motion, which is a sub-step."
+    ],
+    "87": [
+        "A video of dancing macarena generally involves the following step: arm movements, which is a sub-step.",
+        "A video of dancing macarena generally involves the following step: hip rotations, which is a sub-step."
+    ],
+    "88": [
+        "A video of deadlifting generally involves the following step: lifting the barbell from the ground, which is a sub-step.",
+        "A video of deadlifting generally involves the following step: lowering the barbell back to the ground, which is a sub-step."
+    ],
+    "89": [
+        "A video of decorating the christmas tree generally involves the following step: placing the tree in the stand, which is a sub-step.",
+        "A video of decorating the christmas tree generally involves the following step: hanging ornaments on the branches, which is a sub-step."
+    ],
+    "90": [
+        "A video of digging generally involves the following step: loosening the soil, which is a sub-step.",
+        "A video of digging generally involves the following step: removing the loosened soil, which is a sub-step."
+    ],
+    "91": [
+        "A video of dining generally involves the following step: food preparation, which is a sub-step.",
+        "A video of dining generally involves the following step: eating, which is a sub-step."
+    ],
+    "92": [
+        "A video of disc golfing generally involves the following step: throwing the disc, which is a sub-step.",
+        "A video of disc golfing generally involves the following step: walking to the disc, which is a sub-step."
+    ],
+    "93": [
+        "A video of diving cliff generally involves the following step: initial approach to the edge, which is a sub-step.",
+        "A video of diving cliff generally involves the following step: final leap into the air, which is a sub-step."
+    ],
+    "94": [
+        "A video of dodgeball generally involves the following step: players throwing balls at each other, which is a sub-step.",
+        "A video of dodgeball generally involves the following step: players avoiding thrown balls, which is a sub-step."
+    ],
+    "95": [
+        "A video of doing aerobics generally involves the following step: performing rhythmic movements, which is a sub-step.",
+        "A video of doing aerobics generally involves the following step: maintaining a steady pace, which is a sub-step."
+    ],
+    "96": [
+        "A video of doing laundry generally involves the following step: sorting clothes by color, which is a sub-step.",
+        "A video of doing laundry generally involves the following step: loading the washer, which is a sub-step."
+    ],
+    "97": [
+        "A video of doing nails generally involves the following step: applying base coat, which is a sub-step.",
+        "A video of doing nails generally involves the following step: drying base coat, which is a sub-step."
+    ],
+    "98": [
+        "A video of drawing generally involves the following step: sketching the outline, which is a sub-step.",
+        "A video of drawing generally involves the following step: shading the details, which is a sub-step."
+    ],
+    "99": [
+        "A video of dribbling basketball generally involves the following step: bouncing the ball rhythmically, which is a sub-step.",
+        "A video of dribbling basketball generally involves the following step: maintaining control while moving, which is a sub-step."
+    ],
+    "100": [
+        "A video of drinking generally involves the following step: raising the container to the mouth, which is a sub-step.",
+        "A video of drinking generally involves the following step: swallowing the liquid, which is a sub-step."
+    ],
+    "101": [
+        "A video of drinking beer generally involves the following step: lifting the glass to the mouth, which is a sub-step.",
+        "A video of drinking beer generally involves the following step: tilting the glass to pour, which is a sub-step."
+    ],
+    "102": [
+        "A video of drinking shots generally involves the following step: pouring the liquid into a shot glass, which is a sub-step.",
+        "A video of drinking shots generally involves the following step: raising the glass to the mouth, which is a sub-step."
+    ],
+    "103": [
+        "A video of driving a car generally involves the following step: starting the engine, which is a sub-step.",
+        "A video of driving a car generally involves the following step: engaging the gear, which is a sub-step."
+    ],
+    "104": [
+        "A video of driving a tractor generally involves the following step: starting the engine, which is a sub-step.",
+        "A video of driving a tractor generally involves the following step: engaging the gears, which is a sub-step."
+    ],
+    "105": [
+        "A video of drop kicking generally involves the following step: sprinting towards the ball, which is a sub-step.",
+        "A video of drop kicking generally involves the following step: leaping and striking the ball, which is a sub-step."
+    ],
+    "106": [
+        "A video of drumming fingers generally involves the following step: tapping fingers rhythmically, which is a sub-step.",
+        "A video of drumming fingers generally involves the following step: maintaining a steady tempo, which is a sub-step."
+    ],
+    "107": [
+        "A video of dunking basketball generally involves the following step: jumping off the ground, which is a sub-step.",
+        "A video of dunking basketball generally involves the following step: slamming the ball into the hoop, which is a sub-step."
+    ],
+    "108": [
+        "A video of dying hair generally involves the following step: applying dye evenly, which is a sub-step.",
+        "A video of dying hair generally involves the following step: waiting for the dye to set, which is a sub-step."
+    ],
+    "109": [
+        "A video of eating a burger generally involves the following step: lifting the burger to the mouth, which is a sub-step.",
+        "A video of eating a burger generally involves the following step: taking a bite, which is a sub-step."
+    ],
+    "110": [
+        "A video of eating cake generally involves the following step: lifting the fork, which is a sub-step.",
+        "A video of eating cake generally involves the following step: bringing the fork to the mouth, which is a sub-step."
+    ],
+    "111": [
+        "A video of eating carrots generally involves the following step: picking up a carrot, which is a sub-step.",
+        "A video of eating carrots generally involves the following step: taking a bite, which is a sub-step."
+    ],
+    "112": [
+        "A video of eating chips generally involves the following step: reaching for the chips, which is a sub-step.",
+        "A video of eating chips generally involves the following step: placing chips in the mouth, which is a sub-step."
+    ],
+    "113": [
+        "A video of eating doughnuts generally involves the following step: lifting the doughnut to the mouth, which is a sub-step.",
+        "A video of eating doughnuts generally involves the following step: taking a bite and chewing, which is a sub-step."
+    ],
+    "114": [
+        "A video of eating a hotdog generally involves the following step: lifting the hotdog to the mouth, which is a sub-step.",
+        "A video of eating a hotdog generally involves the following step: taking a bite and chewing, which is a sub-step."
+    ],
+    "115": [
+        "A video of eating ice cream generally involves the following step: scooping the ice cream, which is a sub-step.",
+        "A video of eating ice cream generally involves the following step: bringing the spoon to the mouth, which is a sub-step."
+    ],
+    "116": [
+        "A video of eating spaghetti generally involves the following step: lifting the fork with spaghetti, which is a sub-step.",
+        "A video of eating spaghetti generally involves the following step: bringing the fork to the mouth, which is a sub-step."
+    ],
+    "117": [
+        "A video of eating watermelon generally involves the following step: cutting the fruit into slices, which is a sub-step.",
+        "A video of eating watermelon generally involves the following step: consuming the slices, which is a sub-step."
+    ],
+    "118": [
+        "A videos of egg hunting generally involves the following step: searching for eggs, which is a sub-step.",
+        "A videos of egg hunting generally involves the following step: collecting found eggs, which is a sub-step."
+    ],
+    "119": [
+        "A video of exercising arm generally involves the following step: lifting weights, which is a sub-step.",
+        "A video of exercising arm generally involves the following step: lowering weights, which is a sub-step."
+    ],
+    "120": [
+        "A video of exercising with an exercise ball generally involves the following step: sitting on the ball and stabilizing, which is a sub-step.",
+        "A video of exercising with an exercise ball generally involves the following step: performing specific exercises, which is a sub-step."
+    ],
+    "121": [
+        "A video of extinguishing fire generally involves the following step: approaching the fire, which is a sub-step.",
+        "A video of extinguishing fire generally involves the following step: applying the extinguisher, which is a sub-step."
+    ],
+    "122": [
+        "A video of faceplanting generally involves the following step: losing balance, which is a sub-step.",
+        "A video of faceplanting generally involves the following step: falling forward, which is a sub-step."
+    ],
+    "123": [
+        "A video of feeding birds generally involves the following step: placing seeds on the ground, which is a sub-step.",
+        "A video of feeding birds generally involves the following step: waiting for birds to arrive, which is a sub-step."
+    ],
+    "124": [
+        "A video of feeding fish generally involves the following step: placing food in the water, which is a sub-step.",
+        "A video of feeding fish generally involves the following step: observing fish eating, which is a sub-step."
+    ],
+    "125": [
+        "A video of feeding goats generally involves the following step: approaching the goats calmly, which is a sub-step.",
+        "A video of feeding goats generally involves the following step: distributing the food evenly, which is a sub-step."
+    ],
+    "126": [
+        "A video of filling eyebrows generally involves the following step: applying a base coat, which is a sub-step.",
+        "A video of filling eyebrows generally involves the following step: adding color with precision, which is a sub-step."
+    ],
+    "127": [
+        "A video of finger snapping generally involves the following step: fingers touching quickly, which is a sub-step.",
+        "A video of finger snapping generally involves the following step: fingers separating rapidly, which is a sub-step."
+    ],
+    "128": [
+        "A video of fixing hair generally involves the following step: applying product, which is a sub-step.",
+        "A video of fixing hair generally involves the following step: styling with tools, which is a sub-step."
+    ],
+    "129": [
+        "A video of flipping pancakes generally involves the following step: pouring batter onto a hot pan, which is a sub-step.",
+        "A video of flipping pancakes generally involves the following step: tossing the pancake in the air, which is a sub-step."
+    ],
+    "130": [
+        "A video of flying kite generally involves the following step: holding the kite aloft, which is a sub-step.",
+        "A video of flying kite generally involves the following step: running to generate wind, which is a sub-step."
+    ],
+    "131": [
+        "A video of folding clothes generally involves the following step: smoothing out wrinkles, which is a sub-step.",
+        "A video of folding clothes generally involves the following step: aligning edges neatly, which is a sub-step."
+    ],
+    "132": [
+        "A video of folding napkins generally involves the following step: aligning edges symmetrically, which is a sub-step.",
+        "A video of folding napkins generally involves the following step: folding corners precisely, which is a sub-step."
+    ],
+    "133": [
+        "A video of folding paper generally involves the following step: aligning edges precisely, which is a sub-step.",
+        "A video of folding paper generally involves the following step: creasing folds firmly, which is a sub-step."
+    ],
+    "134": [
+        "A video of front raises generally involves the following step: lifting the weights to shoulder height, which is a sub-step.",
+        "A video of front raises generally involves the following step: lowering the weights back to the starting position, which is a sub-step."
+    ],
+    "135": [
+        "A video of frying vegetables generally involves the following step: heating oil until shimmering, which is a sub-step.",
+        "A video of frying vegetables generally involves the following step: adding vegetables and stirring, which is a sub-step."
+    ],
+    "136": [
+        "A video of garbage collecting generally involves the following step: trash pickup, which is a sub-step.",
+        "A video of garbage collecting generally involves the following step: trash disposal, which is a sub-step."
+    ],
+    "137": [
+        "A video of gargling generally involves the following step: filling the mouth with water, which is a sub-step.",
+        "A video of gargling generally involves the following step: swishing the water around the mouth, which is a sub-step."
+    ],
+    "138": [
+        "A video of getting a haircut generally involves the following step: washing the hair, which is a sub-step.",
+        "A video of getting a haircut generally involves the following step: trimming the hair, which is a sub-step."
+    ],
+    "139": [
+        "A video of getting a tattoo generally involves the following step: selecting a design, which is a sub-step.",
+        "A video of getting a tattoo generally involves the following step: preparing the skin, which is a sub-step."
+    ],
+    "140": [
+        "A video of giving or receiving an award generally involves the following step: [recipient approaching the stage], which is a sub-step.",
+        "A video of giving or receiving an award generally involves the following step: [award being presented], which is a sub-step."
+    ],
+    "141": [
+        "A video of golf chipping generally involves the following step: setup and alignment, which is a sub-step.",
+        "A video of golf chipping generally involves the following step: execution and follow-through, which is a sub-step."
+    ],
+    "142": [
+        "A video of golf driving generally involves the following step: stance and grip preparation, which is a sub-step.",
+        "A video of golf driving generally involves the following step: backswing and follow-through, which is a sub-step."
+    ],
+    "143": [
+        "A video of golf putting generally involves the following step: stance and grip preparation, which is a sub-step.",
+        "A video of golf putting generally involves the following step: backswing and forward swing, which is a sub-step."
+    ],
+    "144": [
+        "A video of grinding meat generally involves the following step: placing meat in grinder, which is a sub-step.",
+        "A video of grinding meat generally involves the following step: turning handle to grind, which is a sub-step."
+    ],
+    "145": [
+        "A video of grooming dog generally involves the following step: brushing the coat, which is a sub-step.",
+        "A video of grooming dog generally involves the following step: trimming the nails, which is a sub-step."
+    ],
+    "146": [
+        "A video of grooming horse generally involves the following step: brushing the coat, which is a sub-step.",
+        "A video of grooming horse generally involves the following step: cleaning the hooves, which is a sub-step."
+    ],
+    "147": [
+        "A video of gymnastics tumbling generally involves the following step: initial sprint and leap, which is a sub-step.",
+        "A video of gymnastics tumbling generally involves the following step: mid-air rotation and landing, which is a sub-step."
+    ],
+    "148": [
+        "A video of hammer throw generally involves the following step: initial spinning, which is a sub-step.",
+        "A video of hammer throw generally involves the following step: final release, which is a sub-step."
+    ],
+    "149": [
+        "A video of headbanging generally involves the following step: rapid head movements, which is a sub-step.",
+        "A video of headbanging generally involves the following step: rhythmic synchronization with music, which is a sub-step."
+    ],
+    "150": [
+        "A video of headbutting generally involves the following step: initial contact with the forehead, which is a sub-step.",
+        "A video of headbutting generally involves the following step: subsequent forceful impact, which is a sub-step."
+    ],
+    "151": [
+        "A video of high jump generally involves the following step: sprinting, which is a sub-step.",
+        "A video of high jump generally involves the following step: jumping, which is a sub-step."
+    ],
+    "152": [
+        "A video of high kick generally involves the following step: lifting the leg to hip level, which is a sub-step.",
+        "A video of high kick generally involves the following step: extending the leg upward, which is a sub-step."
+    ],
+    "153": [
+        "A video of hitting baseball generally involves the following step: [swing initiation], which is a sub-step.",
+        "A video of hitting baseball generally involves the following step: [ball contact], which is a sub-step."
+    ],
+    "154": [
+        "A video of hockey stop generally involves the following step: lowering the body and shifting weight, which is a sub-step.",
+        "A video of hockey stop generally involves the following step: pushing off with one skate and gliding, which is a sub-step."
+    ],
+    "155": [
+        "A video of holding snake generally involves the following step: grasping the snake firmly, which is a sub-step.",
+        "A video of holding snake generally involves the following step: positioning the snake safely, which is a sub-step."
+    ],
+    "156": [
+        "A video of hopscotch generally involves the following step: hopping onto each square, which is a sub-step.",
+        "A video of hopscotch generally involves the following step: jumping over the skipped squares, which is a sub-step."
+    ],
+    "157": [
+        "A video of hoverboarding generally involves the following step: balancing on the board, which is a sub-step.",
+        "A video of hoverboarding generally involves the following step: gliding across the surface, which is a sub-step."
+    ],
+    "158": [
+        "A video of hugging generally involves the following step: arms extending towards the other person, which is a sub-step.",
+        "A video of hugging generally involves the following step: bodies coming into close contact, which is a sub-step."
+    ],
+    "159": [
+        "A videos of hula hooping generally involves the following step: initial hoop placement around the waist, which is a sub-step.",
+        "A videos of hula hooping generally involves the following step: continuous rotation of the hoop, which is a sub-step."
+    ],
+    "160": [
+        "A video of hurdling generally involves the following step: initial acceleration, which is a sub-step.",
+        "A video of hurdling generally involves the following step: hurdle clearance, which is a sub-step."
+    ],
+    "161": [
+        "A videos of hurling (sport) generally involves the following step: striking the ball with the hurley, which is a sub-step.",
+        "A videos of hurling (sport) generally involves the following step: running with the ball, which is a sub-step."
+    ],
+    "162": [
+        "A video of ice climbing generally involves the following step: ascending the ice wall, which is a sub-step.",
+        "A video of ice climbing generally involves the following step: securing anchors, which is a sub-step."
+    ],
+    "163": [
+        "A video of ice fishing generally involves the following step: drilling a hole in the ice, which is a sub-step.",
+        "A video of ice fishing generally involves the following step: waiting for fish to bite, which is a sub-step."
+    ],
+    "164": [
+        "A video of ice skating generally involves the following step: gliding on the ice, which is a sub-step.",
+        "A video of ice skating generally involves the following step: performing turns, which is a sub-step."
+    ],
+    "165": [
+        "A video of ironing generally involves the following step: heating the iron, which is a sub-step.",
+        "A video of ironing generally involves the following step: pressing the iron on fabric, which is a sub-step."
+    ],
+    "166": [
+        "A video of javelin throw generally involves the following step: initial run-up and acceleration, which is a sub-step.",
+        "A video of javelin throw generally involves the following step: final release and follow-through, which is a sub-step."
+    ],
+    "167": [
+        "A video of jetskiing generally involves the following step: mounting the jetski, which is a sub-step.",
+        "A video of jetskiing generally involves the following step: accelerating on water, which is a sub-step."
+    ],
+    "168": [
+        "A video of jogging generally involves the following step: starting with a steady pace, which is a sub-step.",
+        "A video of jogging generally involves the following step: maintaining a rhythmic stride, which is a sub-step."
+    ],
+    "169": [
+        "A video of juggling balls generally involves the following step: tossing a ball upwards, which is a sub-step.",
+        "A video of juggling balls generally involves the following step: catching the ball mid-air, which is a sub-step."
+    ],
+    "170": [
+        "A video of juggling fire generally involves the following step: igniting the torches, which is a sub-step.",
+        "A video of juggling fire generally involves the following step: tossing the torches in the air, which is a sub-step."
+    ],
+    "171": [
+        "A video of juggling a soccer ball generally involves the following step: lifting the foot to strike the ball, which is a sub-step.",
+        "A video of juggling a soccer ball generally involves the following step: waiting for the ball to descend, which is a sub-step."
+    ],
+    "172": [
+        "A video of jumping into pool generally involves the following step: initial takeoff from the ground, which is a sub-step.",
+        "A video of jumping into pool generally involves the following step: final entry into the water, which is a sub-step."
+    ],
+    "173": [
+        "A videos of jumpstyle dancing generally involves the following step: a quick hop on one foot, which is a sub-step.",
+        "A videos of jumpstyle dancing generally involves the following step: a rapid switch to the other foot, which is a sub-step."
+    ],
+    "174": [
+        "A video of kicking a field goal generally involves the following step: approach and plant, which is a sub-step.",
+        "A video of kicking a field goal generally involves the following step: swing and follow-through, which is a sub-step."
+    ],
+    "175": [
+        "A video of kicking a soccer ball generally involves the following step: foot contacting the ball, which is a sub-step.",
+        "A video of kicking a soccer ball generally involves the following step: leg extending forward, which is a sub-step."
+    ],
+    "176": [
+        "A video of kissing generally involves the following step: lips touching briefly, which is a sub-step.",
+        "A video of kissing generally involves the following step: maintaining contact for a few seconds, which is a sub-step."
+    ],
+    "177": [
+        "A video of kitesurfing generally involves the following step: launching the kite, which is a sub-step.",
+        "A video of kitesurfing generally involves the following step: riding the board, which is a sub-step."
+    ],
+    "178": [
+        "A video of knitting generally involves the following step: casting on stitches, which is a sub-step.",
+        "A video of knitting generally involves the following step: knitting rows, which is a sub-step."
+    ],
+    "179": [
+        "A video of krumping generally involves the following step: explosive movements, which is a sub-step.",
+        "A video of krumping generally involves the following step: rhythmic repetition, which is a sub-step."
+    ],
+    "180": [
+        "A video of laughing generally involves the following step: mouth opening, which is a sub-step.",
+        "A video of laughing generally involves the following step: vocalization, which is a sub-step."
+    ],
+    "181": [
+        "A video of laying bricks generally involves the following step: mixing mortar, which is a sub-step.",
+        "A video of laying bricks generally involves the following step: positioning bricks, which is a sub-step."
+    ],
+    "182": [
+        "A video of long jump generally involves the following step: takeoff, which is a sub-step.",
+        "A video of long jump generally involves the following step: landing, which is a sub-step."
+    ],
+    "183": [
+        "A video of a lunge generally involves the following step: lowering the body, which is a sub-step.",
+        "A video of a lunge generally involves the following step: extending the front leg, which is a sub-step."
+    ],
+    "184": [
+        "A video of making a cake generally involves the following step: mixing ingredients, which is a sub-step.",
+        "A video of making a cake generally involves the following step: baking the batter, which is a sub-step."
+    ],
+    "185": [
+        "A video of making a sandwich generally involves the following step: placing bread on a plate, which is a sub-step.",
+        "A video of making a sandwich generally involves the following step: spreading condiments on bread, which is a sub-step."
+    ],
+    "186": [
+        "A video of making bed generally involves the following step: smoothing the sheets, which is a sub-step.",
+        "A video of making bed generally involves the following step: arranging pillows, which is a sub-step."
+    ],
+    "187": [
+        "A video of making jewelry generally involves the following step: shaping raw materials, which is a sub-step.",
+        "A video of making jewelry generally involves the following step: assembling components, which is a sub-step."
+    ],
+    "188": [
+        "A video of making pizza generally involves the following step: dough preparation, which is a sub-step.",
+        "A video of making pizza generally involves the following step: topping application, which is a sub-step."
+    ],
+    "189": [
+        "A video of making snowman generally involves the following step: shaping the snow into a base, which is a sub-step.",
+        "A video of making snowman generally involves the following step: adding the middle section, which is a sub-step."
+    ],
+    "190": [
+        "A video of making sushi generally involves the following step: preparing ingredients, which is a sub-step.",
+        "A video of making sushi generally involves the following step: assembling rolls, which is a sub-step."
+    ],
+    "191": [
+        "A video of making tea generally involves the following step: boiling water, which is a sub-step.",
+        "A video of making tea generally involves the following step: steeping tea leaves, which is a sub-step."
+    ],
+    "192": [
+        "A video of marching generally involves the following step: lifting the foot off the ground, which is a sub-step.",
+        "A video of marching generally involves the following step: placing the foot back down, which is a sub-step."
+    ],
+    "193": [
+        "A video of massaging back generally involves the following step: applying pressure to the muscles, which is a sub-step.",
+        "A video of massaging back generally involves the following step: moving hands in circular motions, which is a sub-step."
+    ],
+    "194": [
+        "A video of massaging feet generally involves the following step: applying lotion, which is a sub-step.",
+        "A video of massaging feet generally involves the following step: kneading muscles, which is a sub-step."
+    ],
+    "195": [
+        "A video of massaging legs generally involves the following step: applying lotion, which is a sub-step.",
+        "A video of massaging legs generally involves the following step: kneading muscles, which is a sub-step."
+    ],
+    "196": [
+        "A video of massaging a person's head generally involves the following step: applying gentle pressure to the scalp, which is a sub-step.",
+        "A video of massaging a person's head generally involves the following step: moving fingers in circular motions, which is a sub-step."
+    ],
+    "197": [
+        "A video of milking cow generally involves the following step: attaching the milking machine, which is a sub-step.",
+        "A video of milking cow generally involves the following step: collecting the milk, which is a sub-step."
+    ],
+    "198": [
+        "A video of mopping floor generally involves the following step: wetting the mop, which is a sub-step.",
+        "A video of mopping floor generally involves the following step: scrubbing the floor, which is a sub-step."
+    ],
+    "199": [
+        "A video of motorcycling generally involves the following step: starting the engine, which is a sub-step.",
+        "A video of motorcycling generally involves the following step: accelerating on the road, which is a sub-step."
+    ],
+    "200": [
+        "A video of moving furniture generally involves the following step: lifting the furniture, which is a sub-step.",
+        "A video of moving furniture generally involves the following step: carrying the furniture to the desired location, which is a sub-step."
+    ],
+    "201": [
+        "A video of mowing lawn generally involves the following step: pushing the mower forward, which is a sub-step.",
+        "A video of mowing lawn generally involves the following step: turning the mower around, which is a sub-step."
+    ],
+    "202": [
+        "A video of news anchoring generally involves the following step: preparing the script, which is a sub-step.",
+        "A video of news anchoring generally involves the following step: delivering the news, which is a sub-step."
+    ],
+    "203": [
+        "A video of opening a bottle generally involves the following step: grasping the cap firmly, which is a sub-step.",
+        "A video of opening a bottle generally involves the following step: twisting the cap counterclockwise, which is a sub-step."
+    ],
+    "204": [
+        "A video of opening present generally involves the following step: unwrapping the gift, which is a sub-step.",
+        "A video of opening present generally involves the following step: revealing the contents, which is a sub-step."
+    ],
+    "205": [
+        "A video of paragliding generally involves the following step: launching from a hilltop, which is a sub-step.",
+        "A video of paragliding generally involves the following step: gliding through the air, which is a sub-step."
+    ],
+    "206": [
+        "A video of parasailing generally involves the following step: launching from the boat, which is a sub-step.",
+        "A video of parasailing generally involves the following step: gliding through the air, which is a sub-step."
+    ],
+    "207": [
+        "A video of parkour generally involves the following step: initial acceleration, which is a sub-step.",
+        "A video of parkour generally involves the following step: precise landing, which is a sub-step."
+    ],
+    "208": [
+        "A video of passing american football (in game) generally involves the following step: quarterback receiving snap, which is a sub-step.",
+        "A video of passing american football (in game) generally involves the following step: quarterback releasing pass, which is a sub-step."
+    ],
+    "209": [
+        "A video of passing american football (not in game) generally involves the following step: the quarterback receiving the snap, which is a sub-step.",
+        "A video of passing american football (not in game) generally involves the following step: the quarterback releasing the ball, which is a sub-step."
+    ],
+    "210": [
+        "A video of peeling apples generally involves the following step: cutting the apple in half, which is a sub-step.",
+        "A video of peeling apples generally involves the following step: removing the core, which is a sub-step."
+    ],
+    "211": [
+        "A video of peeling potatoes generally involves the following step: washing the potatoes, which is a sub-step.",
+        "A video of peeling potatoes generally involves the following step: peeling the skin, which is a sub-step."
+    ],
+    "212": [
+        "A video of petting animal (not cat) generally involves the following step: approaching the animal calmly, which is a sub-step.",
+        "A video of petting animal (not cat) generally involves the following step: gently stroking its fur, which is a sub-step."
+    ],
+    "213": [
+        "A video of petting a cat generally involves the following step: gently stroking the cat's fur, which is a sub-step.",
+        "A video of petting a cat generally involves the following step: pausing to allow the cat to respond, which is a sub-step."
+    ],
+    "214": [
+        "A video of picking fruit generally involves the following step: reaching for the fruit, which is a sub-step.",
+        "A video of picking fruit generally involves the following step: gently plucking the fruit, which is a sub-step."
+    ],
+    "215": [
+        "A video of planting trees generally involves the following step: digging holes, which is a sub-step.",
+        "A video of planting trees generally involves the following step: placing saplings, which is a sub-step."
+    ],
+    "216": [
+        "A video of plastering generally involves the following step: applying the plaster mixture, which is a sub-step.",
+        "A video of plastering generally involves the following step: smoothing the surface, which is a sub-step."
+    ],
+    "217": [
+        "A video of playing accordion generally involves the following step: squeezing the bellows, which is a sub-step.",
+        "A video of playing accordion generally involves the following step: pressing the keys, which is a sub-step."
+    ],
+    "218": [
+        "A video of playing badminton generally involves the following step: hitting the shuttlecock, which is a sub-step.",
+        "A video of playing badminton generally involves the following step: retrieving the shuttlecock, which is a sub-step."
+    ],
+    "219": [
+        "A video of playing bagpipes generally involves the following step: inflating the bag, which is a sub-step.",
+        "A video of playing bagpipes generally involves the following step: pressing the keys, which is a sub-step."
+    ],
+    "220": [
+        "A video of playing basketball generally involves the following step: dribbling the ball, which is a sub-step.",
+        "A video of playing basketball generally involves the following step: shooting the ball, which is a sub-step."
+    ],
+    "221": [
+        "A video of playing bass guitar generally involves the following step: strumming the strings, which is a sub-step.",
+        "A video of playing bass guitar generally involves the following step: pressing the frets, which is a sub-step."
+    ],
+    "222": [
+        "A video of playing cards generally involves the following step: shuffling the deck, which is a sub-step.",
+        "A video of playing cards generally involves the following step: dealing the cards, which is a sub-step."
+    ],
+    "223": [
+        "A video of playing cello generally involves the following step: positioning the bow, which is a sub-step.",
+        "A video of playing cello generally involves the following step: drawing the bow across strings, which is a sub-step."
+    ],
+    "224": [
+        "A video of playing chess generally involves the following step: moving pieces on the board, which is a sub-step.",
+        "A video of playing chess generally involves the following step: capturing opponent's pieces, which is a sub-step."
+    ],
+    "225": [
+        "A video of playing clarinet generally involves the following step: assembling the instrument, which is a sub-step.",
+        "A video of playing clarinet generally involves the following step: producing sound through embouchure, which is a sub-step."
+    ],
+    "226": [
+        "A video of playing controller generally involves the following step: button pressing, which is a sub-step.",
+        "A video of playing controller generally involves the following step: joystick manipulation, which is a sub-step."
+    ],
+    "227": [
+        "A video of playing cricket generally involves the following step: the bowler delivers the ball, which is a sub-step.",
+        "A video of playing cricket generally involves the following step: the batsman hits the ball, which is a sub-step."
+    ],
+    "228": [
+        "A video of playing cymbals generally involves the following step: lifting the arms above the head, which is a sub-step.",
+        "A video of playing cymbals generally involves the following step: striking the cymbals together, which is a sub-step."
+    ],
+    "229": [
+        "A video of playing didgeridoo generally involves the following step: circular breathing technique, which is a sub-step.",
+        "A video of playing didgeridoo generally involves the following step: rhythmic mouth movements, which is a sub-step."
+    ],
+    "230": [
+        "A video of playing drums generally involves the following step: striking the drumheads, which is a sub-step.",
+        "A video of playing drums generally involves the following step: adjusting the foot pedals, which is a sub-step."
+    ],
+    "231": [
+        "A video of playing flute generally involves the following step: positioning the mouthpiece, which is a sub-step.",
+        "A video of playing flute generally involves the following step: blowing air into the mouthpiece, which is a sub-step."
+    ],
+    "232": [
+        "A video of playing guitar generally involves the following step: strumming the strings, which is a sub-step.",
+        "A video of playing guitar generally involves the following step: pressing the frets, which is a sub-step."
+    ],
+    "233": [
+        "A video of playing harmonica generally involves the following step: inhaling and exhaling air through the instrument, which is a sub-step.",
+        "A video of playing harmonica generally involves the following step: pressing and releasing different holes on the harmonica, which is a sub-step."
+    ],
+    "234": [
+        "A video of playing harp generally involves the following step: positioning hands over strings, which is a sub-step.",
+        "A video of playing harp generally involves the following step: plucking strings with fingers, which is a sub-step."
+    ],
+    "235": [
+        "A video of playing ice hockey generally involves the following step: skating to the puck, which is a sub-step.",
+        "A video of playing ice hockey generally involves the following step: passing the puck, which is a sub-step."
+    ],
+    "236": [
+        "A video of playing keyboard generally involves the following step: positioning hands over keys, which is a sub-step.",
+        "A video of playing keyboard generally involves the following step: pressing keys rhythmically, which is a sub-step."
+    ],
+    "237": [
+        "A video of playing kickball generally involves the following step: kicking the ball, which is a sub-step.",
+        "A video of playing kickball generally involves the following step: running bases, which is a sub-step."
+    ],
+    "238": [
+        "A video of playing monopoly generally involves the following step: rolling dice to move, which is a sub-step.",
+        "A video of playing monopoly generally involves the following step: buying or passing property, which is a sub-step."
+    ],
+    "239": [
+        "A video of playing organ generally involves the following step: pressing keys rapidly, which is a sub-step.",
+        "A video of playing organ generally involves the following step: manipulating pedals smoothly, which is a sub-step."
+    ],
+    "240": [
+        "A video of playing paintball generally involves the following step: gearing up, which is a sub-step.",
+        "A video of playing paintball generally involves the following step: engaging in gameplay, which is a sub-step."
+    ],
+    "241": [
+        "A video of playing piano generally involves the following step: pressing keys rapidly, which is a sub-step.",
+        "A video of playing piano generally involves the following step: maintaining rhythm, which is a sub-step."
+    ],
+    "242": [
+        "A video of playing poker generally involves the following step: dealing cards, which is a sub-step.",
+        "A video of playing poker generally involves the following step: placing bets, which is a sub-step."
+    ],
+    "243": [
+        "A video of playing recorder generally involves the following step: inhaling air, which is a sub-step.",
+        "A video of playing recorder generally involves the following step: blowing air into the instrument, which is a sub-step."
+    ],
+    "244": [
+        "A video of playing saxophone generally involves the following step: inhaling air, which is a sub-step.",
+        "A video of playing saxophone generally involves the following step: pressing keys, which is a sub-step."
+    ],
+    "245": [
+        "A video of playing squash or racquetball generally involves the following step: hitting the ball with the racquet, which is a sub-step.",
+        "A video of playing squash or racquetball generally involves the following step: retrieving the ball after it bounces, which is a sub-step."
+    ],
+    "246": [
+        "A video of playing tennis generally involves the following step: hitting the ball with a racket, which is a sub-step.",
+        "A video of playing tennis generally involves the following step: running to the ball's location, which is a sub-step."
+    ],
+    "247": [
+        "A video of playing trombone generally involves the following step: positioning the slide in the correct position, which is a sub-step.",
+        "A video of playing trombone generally involves the following step: blowing air through the mouthpiece, which is a sub-step."
+    ],
+    "248": [
+        "A video of playing trumpet generally involves the following step: inhaling deeply, which is a sub-step.",
+        "A video of playing trumpet generally involves the following step: pressing lips to mouthpiece, which is a sub-step."
+    ],
+    "249": [
+        "A video of playing ukulele generally involves the following step: strumming the strings rhythmically, which is a sub-step.",
+        "A video of playing ukulele generally involves the following step: positioning fingers on frets, which is a sub-step."
+    ],
+    "250": [
+        "A video of playing violin generally involves the following step: drawing the bow across the strings, which is a sub-step.",
+        "A video of playing violin generally involves the following step: pressing fingers on the fingerboard, which is a sub-step."
+    ],
+    "251": [
+        "A video of playing volleyball generally involves the following step: serving the ball over the net, which is a sub-step.",
+        "A video of playing volleyball generally involves the following step: spiking the ball towards the opponent, which is a sub-step."
+    ],
+    "252": [
+        "A video of playing xylophone generally involves the following step: striking the bars with mallets, which is a sub-step.",
+        "A video of playing xylophone generally involves the following step: moving the mallets to the next note, which is a sub-step."
+    ],
+    "253": [
+        "A video of pole vault generally involves the following step: running with the pole, which is a sub-step.",
+        "A video of pole vault generally involves the following step: planting the pole, which is a sub-step."
+    ],
+    "254": [
+        "A video of presenting weather forecast generally involves the following step: gathering meteorological data, which is a sub-step.",
+        "A video of presenting weather forecast generally involves the following step: creating visual representations, which is a sub-step."
+    ],
+    "255": [
+        "A video of pull ups generally involves the following step: initiating from a hanging position, which is a sub-step.",
+        "A video of pull ups generally involves the following step: lifting the body upwards, which is a sub-step."
+    ],
+    "256": [
+        "A video of pumping fist generally involves the following step: raising the arm quickly, which is a sub-step.",
+        "A video of pumping fist generally involves the following step: clenching the fist tightly, which is a sub-step."
+    ],
+    "257": [
+        "A video of pumping gas generally involves the following step: inserting the nozzle into the tank, which is a sub-step.",
+        "A video of pumping gas generally involves the following step: pressing the handle to start flow, which is a sub-step."
+    ],
+    "258": [
+        "A video of punching bag generally involves the following step: the bag is swung back, which is a sub-step.",
+        "A video of punching bag generally involves the following step: the bag is struck, which is a sub-step."
+    ],
+    "259": [
+        "A video of punching person (boxing) generally involves the following step: winding up the arm, which is a sub-step.",
+        "A video of punching person (boxing) generally involves the following step: releasing the punch, which is a sub-step."
+    ],
+    "260": [
+        "A video of push up generally involves the following step: lowering the body to the floor, which is a sub-step.",
+        "A video of push up generally involves the following step: pushing the body back up, which is a sub-step."
+    ],
+    "261": [
+        "A video of pushing a car generally involves the following step: positioning behind the vehicle, which is a sub-step.",
+        "A video of pushing a car generally involves the following step: applying force to the vehicle, which is a sub-step."
+    ],
+    "262": [
+        "A video of pushing cart generally involves the following step: gripping the handle, which is a sub-step.",
+        "A video of pushing cart generally involves the following step: applying force, which is a sub-step."
+    ],
+    "263": [
+        "A video of pushing wheelchair generally involves the following step: grasping the handles firmly, which is a sub-step.",
+        "A video of pushing wheelchair generally involves the following step: applying force to move forward, which is a sub-step."
+    ],
+    "264": [
+        "A video of reading a book generally involves the following step: opening the book, which is a sub-step.",
+        "A video of reading a book generally involves the following step: turning pages, which is a sub-step."
+    ],
+    "265": [
+        "A video of reading newspaper generally involves the following step: picking up the newspaper, which is a sub-step.",
+        "A video of reading newspaper generally involves the following step: flipping through pages, which is a sub-step."
+    ],
+    "266": [
+        "A video of recording music generally involves the following step: setting up equipment, which is a sub-step.",
+        "A video of recording music generally involves the following step: capturing audio, which is a sub-step."
+    ],
+    "267": [
+        "A video of riding a bike generally involves the following step: mounting the bike, which is a sub-step.",
+        "A video of riding a bike generally involves the following step: pedaling forward, which is a sub-step."
+    ],
+    "268": [
+        "A video of riding camel generally involves the following step: mounting the camel, which is a sub-step.",
+        "A video of riding camel generally involves the following step: maintaining balance, which is a sub-step."
+    ],
+    "269": [
+        "A video of riding an elephant generally involves the following step: mounting the elephant, which is a sub-step.",
+        "A video of riding an elephant generally involves the following step: maintaining balance, which is a sub-step."
+    ],
+    "270": [
+        "A video of riding mechanical bull generally involves the following step: mounting the bull, which is a sub-step.",
+        "A video of riding mechanical bull generally involves the following step: maintaining balance, which is a sub-step."
+    ],
+    "271": [
+        "A video of riding a mountain bike generally involves the following step: mounting the bike, which is a sub-step.",
+        "A video of riding a mountain bike generally involves the following step: pedaling and steering, which is a sub-step."
+    ],
+    "272": [
+        "A video of riding mule generally involves the following step: mounting the mule, which is a sub-step.",
+        "A video of riding mule generally involves the following step: maintaining balance, which is a sub-step."
+    ],
+    "273": [
+        "A video of riding or walking with horse generally involves the following step: mounting the horse, which is a sub-step.",
+        "A video of riding or walking with horse generally involves the following step: maintaining balance, which is a sub-step."
+    ],
+    "274": [
+        "A video of riding scooter generally involves the following step: mounting the scooter, which is a sub-step.",
+        "A video of riding scooter generally involves the following step: accelerating forward, which is a sub-step."
+    ],
+    "275": [
+        "A video of riding unicycle generally involves the following step: balancing on the seat, which is a sub-step.",
+        "A video of riding unicycle generally involves the following step: pedaling forward, which is a sub-step."
+    ],
+    "276": [
+        "A video of ripping paper generally involves the following step: holding the paper firmly, which is a sub-step.",
+        "A video of ripping paper generally involves the following step: applying force to tear, which is a sub-step."
+    ],
+    "277": [
+        "A video of robot dancing generally involves the following step: initial pose adjustment, which is a sub-step.",
+        "A video of robot dancing generally involves the following step: rhythmic movement execution, which is a sub-step."
+    ],
+    "278": [
+        "A video of rock climbing generally involves the following step: gripping holds securely, which is a sub-step.",
+        "A video of rock climbing generally involves the following step: moving upward steadily, which is a sub-step."
+    ],
+    "279": [
+        "A video of rock scissors paper generally involves the following step: players simultaneously reveal their choice, which is a sub-step.",
+        "A video of rock scissors paper generally involves the following step: the outcome is determined instantly, which is a sub-step."
+    ],
+    "280": [
+        "A video of roller skating generally involves the following step: gliding on wheels, which is a sub-step.",
+        "A video of roller skating generally involves the following step: maintaining balance, which is a sub-step."
+    ],
+    "281": [
+        "A video of running on treadmill generally involves the following step: stepping onto the belt, which is a sub-step.",
+        "A video of running on treadmill generally involves the following step: maintaining a steady pace, which is a sub-step."
+    ],
+    "282": [
+        "A video of sailing generally involves the following step: hoisting the sails, which is a sub-step.",
+        "A video of sailing generally involves the following step: maneuvering the boat, which is a sub-step."
+    ],
+    "283": [
+        "A video of salsa dancing generally involves the following step: a quick turn followed by a pause, which is a sub-step.",
+        "A video of salsa dancing generally involves the following step: a slow, fluid movement leading to a sharp flick, which is a sub-step."
+    ],
+    "284": [
+        "A video of sanding floor generally involves the following step: starting with coarse grit sandpaper, which is a sub-step.",
+        "A video of sanding floor generally involves the following step: progressing to finer grit sandpaper, which is a sub-step."
+    ],
+    "285": [
+        "A video of scrambling eggs generally involves the following step: cracking eggs into a bowl, which is a sub-step.",
+        "A video of scrambling eggs generally involves the following step: whisking the eggs until frothy, which is a sub-step."
+    ],
+    "286": [
+        "A video of scuba diving generally involves the following step: donning the gear, which is a sub-step.",
+        "A video of scuba diving generally involves the following step: entering the water, which is a sub-step."
+    ],
+    "287": [
+        "A video of setting a table generally involves the following step: placing plates on the table, which is a sub-step.",
+        "A video of setting a table generally involves the following step: arranging cutlery beside plates, which is a sub-step."
+    ],
+    "288": [
+        "A video of shaking hands generally involves the following step: extending arms towards each other, which is a sub-step.",
+        "A video of shaking hands generally involves the following step: grasping hands and shaking briefly, which is a sub-step."
+    ],
+    "289": [
+        "A video of shaking head generally involves the following step: initiating a lateral movement, which is a sub-step.",
+        "A video of shaking head generally involves the following step: maintaining the lateral movement, which is a sub-step."
+    ],
+    "290": [
+        "A video of sharpening knives generally involves the following step: wetting the stone, which is a sub-step.",
+        "A video of sharpening knives generally involves the following step: drawing the blade across the stone, which is a sub-step."
+    ],
+    "291": [
+        "A video of sharpening pencil generally involves the following step: rotating the pencil slowly, which is a sub-step.",
+        "A video of sharpening pencil generally involves the following step: holding the sharpener steady, which is a sub-step."
+    ],
+    "292": [
+        "A video of shaving head generally involves the following step: wetting the hair, which is a sub-step.",
+        "A video of shaving head generally involves the following step: applying shaving cream, which is a sub-step."
+    ],
+    "293": [
+        "A video of shaving legs generally involves the following step: wetting the legs, which is a sub-step.",
+        "A video of shaving legs generally involves the following step: applying shaving cream, which is a sub-step."
+    ],
+    "294": [
+        "A video of shearing sheep generally involves the following step: sheep immobilization, which is a sub-step.",
+        "A video of shearing sheep generally involves the following step: wool removal, which is a sub-step."
+    ],
+    "295": [
+        "A video of shining shoes generally involves the following step: applying polish, which is a sub-step.",
+        "A video of shining shoes generally involves the following step: buffing the shoes, which is a sub-step."
+    ],
+    "296": [
+        "A video of shooting basketball generally involves the following step: dribbling the ball, which is a sub-step.",
+        "A video of shooting basketball generally involves the following step: shooting the ball, which is a sub-step."
+    ],
+    "297": [
+        "A video of shooting a goal (soccer) generally involves the following step: ball control and positioning, which is a sub-step.",
+        "A video of shooting a goal (soccer) generally involves the following step: precise kick execution, which is a sub-step."
+    ],
+    "298": [
+        "A video of shot put generally involves the following step: initial setup and positioning, which is a sub-step.",
+        "A video of shot put generally involves the following step: explosive force generation, which is a sub-step."
+    ],
+    "299": [
+        "A video of shoveling snow generally involves the following step: lifting snow onto the shovel, which is a sub-step.",
+        "A video of shoveling snow generally involves the following step: moving the shovel to the pile, which is a sub-step."
+    ],
+    "300": [
+        "A video of shredding paper generally involves the following step: inserting paper into the shredder, which is a sub-step.",
+        "A video of shredding paper generally involves the following step: activating the shredder mechanism, which is a sub-step."
+    ],
+    "301": [
+        "A video of shuffling cards generally involves the following step: holding the deck steady, which is a sub-step.",
+        "A video of shuffling cards generally involves the following step: interleaving the cards, which is a sub-step."
+    ],
+    "302": [
+        "A video of side kick generally involves the following step: lifting the knee to hip height, which is a sub-step.",
+        "A video of side kick generally involves the following step: extending the leg forward, which is a sub-step."
+    ],
+    "303": [
+        "A videos of sign language interpreting generally involves the following step: simultaneous translation of spoken words into signs, which is a sub-step.",
+        "A videos of sign language interpreting generally involves the following step: subsequent interpretation of signs into spoken words, which is a sub-step."
+    ],
+    "304": [
+        "A video of singing generally involves the following step: vocalization, which is a sub-step.",
+        "A video of singing generally involves the following step: synchronization with music, which is a sub-step."
+    ],
+    "305": [
+        "A video of situp generally involves the following step: lifting the torso, which is a sub-step.",
+        "A video of situp generally involves the following step: lowering the torso, which is a sub-step."
+    ],
+    "306": [
+        "A video of skateboarding generally involves the following step: pushing off with one foot, which is a sub-step.",
+        "A video of skateboarding generally involves the following step: balancing on the board, which is a sub-step."
+    ],
+    "307": [
+        "A video of ski jumping generally involves the following step: takeoff from the ramp, which is a sub-step.",
+        "A video of ski jumping generally involves the following step: aerial flight, which is a sub-step."
+    ],
+    "308": [
+        "A video of skiing (not slalom or crosscountry) generally involves the following step: gliding on flat terrain, which is a sub-step.",
+        "A video of skiing (not slalom or crosscountry) generally involves the following step: turning on slopes, which is a sub-step."
+    ],
+    "309": [
+        "A video of skiing crosscountry generally involves the following step: gliding on flat terrain, which is a sub-step.",
+        "A video of skiing crosscountry generally involves the following step: pushing with poles, which is a sub-step."
+    ],
+    "310": [
+        "A video of skiing slalom generally involves the following step: initiating turns at the gates, which is a sub-step.",
+        "A video of skiing slalom generally involves the following step: maintaining balance through turns, which is a sub-step."
+    ],
+    "311": [
+        "A video of skipping rope generally involves the following step: swinging the rope forward, which is a sub-step.",
+        "A video of skipping rope generally involves the following step: jumping over the rope, which is a sub-step."
+    ],
+    "312": [
+        "A video of skydiving generally involves the following step: freefall, which is a sub-step.",
+        "A video of skydiving generally involves the following step: canopy descent, which is a sub-step."
+    ],
+    "313": [
+        "A video of slacklining generally involves the following step: setting up the slackline, which is a sub-step.",
+        "A video of slacklining generally involves the following step: balancing on the slackline, which is a sub-step."
+    ],
+    "314": [
+        "A video of slapping generally involves the following step: hand movement towards the target, which is a sub-step.",
+        "A video of slapping generally involves the following step: impact followed by recoil, which is a sub-step."
+    ],
+    "315": [
+        "A video of sled dog racing generally involves the following step: dogs pulling the sled, which is a sub-step.",
+        "A video of sled dog racing generally involves the following step: mushers guiding the team, which is a sub-step."
+    ],
+    "316": [
+        "A video of smoking generally involves the following step: inhaling smoke, which is a sub-step.",
+        "A video of smoking generally involves the following step: exhaling smoke, which is a sub-step."
+    ],
+    "317": [
+        "A video of smoking hookah generally involves the following step: lighting the coal, which is a sub-step.",
+        "A video of smoking hookah generally involves the following step: inhaling the smoke, which is a sub-step."
+    ],
+    "318": [
+        "A video of snatch weight lifting generally involves the following step: lifting the barbell from the ground to the hip, which is a sub-step.",
+        "A video of snatch weight lifting generally involves the following step: extending the barbell overhead, which is a sub-step."
+    ],
+    "319": [
+        "A video of sneezing generally involves the following step: inhaling deeply, which is a sub-step.",
+        "A video of sneezing generally involves the following step: expelling air forcefully, which is a sub-step."
+    ],
+    "320": [
+        "A video of sniffing generally involves the following step: inhaling deeply, which is a sub-step.",
+        "A video of sniffing generally involves the following step: pausing briefly, which is a sub-step."
+    ],
+    "321": [
+        "A video of snorkeling generally involves the following step: donning the snorkel gear, which is a sub-step.",
+        "A video of snorkeling generally involves the following step: submerging underwater, which is a sub-step."
+    ],
+    "322": [
+        "A video of snowboarding generally involves the following step: gliding down the slope, which is a sub-step.",
+        "A video of snowboarding generally involves the following step: performing tricks and maneuvers, which is a sub-step."
+    ],
+    "323": [
+        "A video of snowkiting generally involves the following step: launching the kite into the air, which is a sub-step.",
+        "A video of snowkiting generally involves the following step: gliding across the snow, which is a sub-step."
+    ],
+    "324": [
+        "A video of snowmobiling generally involves the following step: starting the engine, which is a sub-step.",
+        "A video of snowmobiling generally involves the following step: accelerating on the snow, which is a sub-step."
+    ],
+    "325": [
+        "A video of somersaulting generally involves the following step: initial forward leap, which is a sub-step.",
+        "A video of somersaulting generally involves the following step: subsequent rotation in mid-air, which is a sub-step."
+    ],
+    "326": [
+        "A video of spinning poi generally involves the following step: initiating the spin, which is a sub-step.",
+        "A video of spinning poi generally involves the following step: maintaining the spin, which is a sub-step."
+    ],
+    "327": [
+        "A video of spray painting generally involves the following step: priming the surface, which is a sub-step.",
+        "A video of spray painting generally involves the following step: applying the paint, which is a sub-step."
+    ],
+    "328": [
+        "A video of spraying generally involves the following step: liquid release, which is a sub-step.",
+        "A video of spraying generally involves the following step: target application, which is a sub-step."
+    ],
+    "329": [
+        "A video of springboard diving generally involves the following step: initial takeoff, which is a sub-step.",
+        "A video of springboard diving generally involves the following step: subsequent aerial rotation, which is a sub-step."
+    ],
+    "330": [
+        "A video of squat generally involves the following step: lowering the body, which is a sub-step.",
+        "A video of squat generally involves the following step: raising the body, which is a sub-step."
+    ],
+    "331": [
+        "A video of sticking tongue out generally involves the following step: opening mouth wide, which is a sub-step.",
+        "A video of sticking tongue out generally involves the following step: protruding tongue, which is a sub-step."
+    ],
+    "332": [
+        "A video of stomping grapes generally involves the following step: placing grapes in a vat, which is a sub-step.",
+        "A video of stomping grapes generally involves the following step: stomping on the grapes, which is a sub-step."
+    ],
+    "333": [
+        "A video of stretching arm generally involves the following step: shoulder rotation, which is a sub-step.",
+        "A video of stretching arm generally involves the following step: elbow extension, which is a sub-step."
+    ],
+    "334": [
+        "A video of stretching leg generally involves the following step: extending the leg slowly, which is a sub-step.",
+        "A video of stretching leg generally involves the following step: holding the stretch for a few seconds, which is a sub-step."
+    ],
+    "335": [
+        "A video of strumming guitar generally involves the following step: moving the hand downward across the strings, which is a sub-step.",
+        "A video of strumming guitar generally involves the following step: releasing the strings after impact, which is a sub-step."
+    ],
+    "336": [
+        "A video of surfing crowd generally involves the following step: paddling out to the lineup, which is a sub-step.",
+        "A video of surfing crowd generally involves the following step: waiting for the right wave, which is a sub-step."
+    ],
+    "337": [
+        "A video of surfing water generally involves the following step: paddling out to the wave, which is a sub-step.",
+        "A video of surfing water generally involves the following step: riding the wave, which is a sub-step."
+    ],
+    "338": [
+        "A video of sweeping floor generally involves the following step: moving the broom across the floor, which is a sub-step.",
+        "A video of sweeping floor generally involves the following step: collecting debris into a pile, which is a sub-step."
+    ],
+    "339": [
+        "A video of swimming backstroke generally involves the following step: arm extension and rotation, which is a sub-step.",
+        "A video of swimming backstroke generally involves the following step: leg kick and breath control, which is a sub-step."
+    ],
+    "340": [
+        "A video of swimming breast stroke generally involves the following step: gliding through the water, which is a sub-step.",
+        "A video of swimming breast stroke generally involves the following step: executing a frog-like kick, which is a sub-step."
+    ],
+    "341": [
+        "A video of swimming butterfly stroke generally involves the following step: arm recovery and body rotation, which is a sub-step.",
+        "A video of swimming butterfly stroke generally involves the following step: dolphin kick and breath control, which is a sub-step."
+    ],
+    "342": [
+        "A videos of swing dancing generally involves the following step: leading with a step forward, which is a sub-step.",
+        "A videos of swing dancing generally involves the following step: following with a step backward, which is a sub-step."
+    ],
+    "343": [
+        "A video of swinging legs generally involves the following step: lifting one leg, which is a sub-step.",
+        "A video of swinging legs generally involves the following step: moving the lifted leg forward, which is a sub-step."
+    ],
+    "344": [
+        "A video of swinging on something generally involves the following step: grasping the object firmly, which is a sub-step.",
+        "A video of swinging on something generally involves the following step: initiating the swing motion, which is a sub-step."
+    ],
+    "345": [
+        "A video of sword fighting generally involves the following step: initial stance preparation, which is a sub-step.",
+        "A video of sword fighting generally involves the following step: subsequent attack execution, which is a sub-step."
+    ],
+    "346": [
+        "A video of tai chi generally involves the following step: slow, deliberate movements, which is a sub-step.",
+        "A video of tai chi generally involves the following step: controlled breathing, which is a sub-step."
+    ],
+    "347": [
+        "A video of taking a shower generally involves the following step: turning on the water, which is a sub-step.",
+        "A video of taking a shower generally involves the following step: applying soap, which is a sub-step."
+    ],
+    "348": [
+        "A video of tango dancing generally involves the following step: a forward step with the left foot, which is a sub-step.",
+        "A video of tango dancing generally involves the following step: a backward step with the right foot, which is a sub-step."
+    ],
+    "349": [
+        "A videos of tap dancing generally involves the following step: quick foot taps, which is a sub-step.",
+        "A videos of tap dancing generally involves the following step: rhythmic foot stomps, which is a sub-step."
+    ],
+    "350": [
+        "A video of tapping guitar generally involves the following step: finger taps string rapidly, which is a sub-step.",
+        "A video of tapping guitar generally involves the following step: hand slides down neck, which is a sub-step."
+    ],
+    "351": [
+        "A video of tapping pen generally involves the following step: lifting the pen, which is a sub-step.",
+        "A video of tapping pen generally involves the following step: striking the surface, which is a sub-step."
+    ],
+    "352": [
+        "A video of tasting beer generally involves the following step: pouring the beer into a glass, which is a sub-step.",
+        "A video of tasting beer generally involves the following step: sipping and evaluating the flavor, which is a sub-step."
+    ],
+    "353": [
+        "A video of tasting food generally involves the following step: bringing food to mouth, which is a sub-step.",
+        "A video of tasting food generally involves the following step: chewing and swallowing, which is a sub-step."
+    ],
+    "354": [
+        "A video of testifying generally involves the following step: preparing written statements, which is a sub-step.",
+        "A video of testifying generally involves the following step: delivering oral statements, which is a sub-step."
+    ],
+    "355": [
+        "A video of texting generally involves the following step: fingers moving over the keyboard, which is a sub-step.",
+        "A video of texting generally involves the following step: messages appearing on the screen, which is a sub-step."
+    ],
+    "356": [
+        "A video of throwing axe generally involves the following step: gripping the handle firmly, which is a sub-step.",
+        "A video of throwing axe generally involves the following step: releasing the axe swiftly, which is a sub-step."
+    ],
+    "357": [
+        "A video of throwing ball generally involves the following step: arm cocking backward, which is a sub-step.",
+        "A video of throwing ball generally involves the following step: arm propelling forward, which is a sub-step."
+    ],
+    "358": [
+        "A video of throwing discus generally involves the following step: windup and spin, which is a sub-step.",
+        "A video of throwing discus generally involves the following step: release and follow-through, which is a sub-step."
+    ],
+    "359": [
+        "A video of tickling generally involves the following step: initiating contact, which is a sub-step.",
+        "A video of tickling generally involves the following step: maintaining contact, which is a sub-step."
+    ],
+    "360": [
+        "A video of tobogganing generally involves the following step: sliding down a slope, which is a sub-step.",
+        "A video of tobogganing generally involves the following step: coming to a stop, which is a sub-step."
+    ],
+    "361": [
+        "A video of tossing coin generally involves the following step: coin held between fingers, which is a sub-step.",
+        "A video of tossing coin generally involves the following step: coin released into air, which is a sub-step."
+    ],
+    "362": [
+        "A video of tossing salad generally involves the following step: mixing ingredients thoroughly, which is a sub-step.",
+        "A video of tossing salad generally involves the following step: shaking the bowl vigorously, which is a sub-step."
+    ],
+    "363": [
+        "A videos of training dog generally involves the following step: teaching basic commands, which is a sub-step.",
+        "A videos of training dog generally involves the following step: reinforcing behaviors, which is a sub-step."
+    ],
+    "364": [
+        "A video of trapezing generally involves the following step: aerial acrobatics, which is a sub-step.",
+        "A video of trapezing generally involves the following step: safety landing, which is a sub-step."
+    ],
+    "365": [
+        "A video of trimming or shaving beard generally involves the following step: applying shaving cream, which is a sub-step.",
+        "A video of trimming or shaving beard generally involves the following step: using a razor or trimmer, which is a sub-step."
+    ],
+    "366": [
+        "A video of trimming trees generally involves the following step: cutting branches with a saw, which is a sub-step.",
+        "A video of trimming trees generally involves the following step: removing cut branches, which is a sub-step."
+    ],
+    "367": [
+        "A video of triple jump generally involves the following step: initial hop, which is a sub-step.",
+        "A video of triple jump generally involves the following step: subsequent bound, which is a sub-step."
+    ],
+    "368": [
+        "A video of tying a bow tie generally involves the following step: placing the collar around the neck, which is a sub-step.",
+        "A video of tying a bow tie generally involves the following step: folding the ends to form loops, which is a sub-step."
+    ],
+    "369": [
+        "A video of tying knot (not on a tie) generally involves the following step: securing one end of the rope, which is a sub-step.",
+        "A video of tying knot (not on a tie) generally involves the following step: looping the rope around the anchor, which is a sub-step."
+    ],
+    "370": [
+        "A video of tying tie generally involves the following step: positioning the tie around the neck, which is a sub-step.",
+        "A video of tying tie generally involves the following step: looping the wide end around the narrow end, which is a sub-step."
+    ],
+    "371": [
+        "A video of unboxing generally involves the following step: removing the outer packaging, which is a sub-step.",
+        "A video of unboxing generally involves the following step: opening the product box, which is a sub-step."
+    ],
+    "372": [
+        "A video of unloading truck generally involves the following step: lifting cargo from the truck bed, which is a sub-step.",
+        "A video of unloading truck generally involves the following step: moving cargo to the storage area, which is a sub-step."
+    ],
+    "373": [
+        "A videos of using computer generally involves the following step: booting up the system, which is a sub-step.",
+        "A videos of using computer generally involves the following step: launching the application, which is a sub-step."
+    ],
+    "374": [
+        "A video of using a remote controller generally involves the following step: pressing the power button, which is a sub-step.",
+        "A video of using a remote controller generally involves the following step: selecting a channel, which is a sub-step."
+    ],
+    "375": [
+        "A video of using a segway generally involves the following step: mounting the device, which is a sub-step.",
+        "A video of using a segway generally involves the following step: balancing and moving, which is a sub-step."
+    ],
+    "376": [
+        "A video of vault generally involves the following step: initial acceleration, which is a sub-step.",
+        "A video of vault generally involves the following step: final push-off, which is a sub-step."
+    ],
+    "377": [
+        "A video of waiting in line generally involves the following step: standing in place, which is a sub-step.",
+        "A video of waiting in line generally involves the following step: moving forward gradually, which is a sub-step."
+    ],
+    "378": [
+        "A video of walking the dog generally involves the following step: attaching the leash to the collar, which is a sub-step.",
+        "A video of walking the dog generally involves the following step: leading the dog outside, which is a sub-step."
+    ],
+    "379": [
+        "A video of washing dishes generally involves the following step: rinsing dishes under running water, which is a sub-step.",
+        "A video of washing dishes generally involves the following step: scrubbing dishes with soap, which is a sub-step."
+    ],
+    "380": [
+        "A video of washing feet generally involves the following step: wetting the feet, which is a sub-step.",
+        "A video of washing feet generally involves the following step: scrubbing the feet, which is a sub-step."
+    ],
+    "381": [
+        "A video of washing hair generally involves the following step: applying shampoo to wet hair, which is a sub-step.",
+        "A video of washing hair generally involves the following step: rinsing out the shampoo, which is a sub-step."
+    ],
+    "382": [
+        "A video of washing hands generally involves the following step: applying soap, which is a sub-step.",
+        "A video of washing hands generally involves the following step: rinsing thoroughly, which is a sub-step."
+    ],
+    "383": [
+        "A video of water skiing generally involves the following step: being pulled by a boat, which is a sub-step.",
+        "A video of water skiing generally involves the following step: maintaining balance on skis, which is a sub-step."
+    ],
+    "384": [
+        "A video of water sliding generally involves the following step: initial contact with water surface, which is a sub-step.",
+        "A video of water sliding generally involves the following step: gradual acceleration on water, which is a sub-step."
+    ],
+    "385": [
+        "A video of watering plants generally involves the following step: filling the watering can, which is a sub-step.",
+        "A video of watering plants generally involves the following step: pouring water onto the plants, which is a sub-step."
+    ],
+    "386": [
+        "A video of waxing back generally involves the following step: applying warm wax, which is a sub-step.",
+        "A video of waxing back generally involves the following step: removing the wax strip, which is a sub-step."
+    ],
+    "387": [
+        "A video of waxing chest generally involves the following step: applying warm wax strips, which is a sub-step.",
+        "A video of waxing chest generally involves the following step: quickly removing the strips, which is a sub-step."
+    ],
+    "388": [
+        "A video of waxing eyebrows generally involves the following step: applying warm wax, which is a sub-step.",
+        "A video of waxing eyebrows generally involves the following step: removing wax strips, which is a sub-step."
+    ],
+    "389": [
+        "A video of waxing legs generally involves the following step: applying warm wax, which is a sub-step.",
+        "A video of waxing legs generally involves the following step: removing wax strips, which is a sub-step."
+    ],
+    "390": [
+        "A video of weaving basket generally involves the following step: gathering materials, which is a sub-step.",
+        "A video of weaving basket generally involves the following step: weaving the base, which is a sub-step."
+    ],
+    "391": [
+        "A video of welding generally involves the following step: preheating the metal, which is a sub-step.",
+        "A video of welding generally involves the following step: applying the weld, which is a sub-step."
+    ],
+    "392": [
+        "A video of whistling generally involves the following step: inhaling deeply, which is a sub-step.",
+        "A video of whistling generally involves the following step: exhaling with pursed lips, which is a sub-step."
+    ],
+    "393": [
+        "A video of windsurfing generally involves the following step: balancing on the board, which is a sub-step.",
+        "A video of windsurfing generally involves the following step: maneuvering the sail, which is a sub-step."
+    ],
+    "394": [
+        "A video of wrapping present generally involves the following step: cutting the wrapping paper, which is a sub-step.",
+        "A video of wrapping present generally involves the following step: folding the paper edges, which is a sub-step."
+    ],
+    "395": [
+        "A video of wrestling generally involves the following step: grappling and positioning, which is a sub-step.",
+        "A video of wrestling generally involves the following step: executing holds and throws, which is a sub-step."
+    ],
+    "396": [
+        "A video of writing generally involves the following step: pen touching paper, which is a sub-step.",
+        "A video of writing generally involves the following step: pen lifting from paper, which is a sub-step."
+    ],
+    "397": [
+        "A video of yawning generally involves the following step: mouth opening, which is a sub-step.",
+        "A video of yawning generally involves the following step: jaw stretching, which is a sub-step."
+    ],
+    "398": [
+        "A video of yoga generally involves the following step: stretching muscles, which is a sub-step.",
+        "A video of yoga generally involves the following step: holding poses, which is a sub-step."
+    ],
+    "399": [
+        "A video of zumba generally involves the following step: warm-up exercises, which is a sub-step.",
+        "A video of zumba generally involves the following step: high-energy dance routines, which is a sub-step."
+    ]
+}

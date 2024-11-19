@@ -1,0 +1,512 @@
+{
+    "0": [
+        "A video about smooth, flowing strokes.",
+        "A video about precise, controlled movements.",
+        "A video about vibrant, dynamic colors.",
+        "A video about soft, feathery textures.",
+        "A video about bold, sweeping motions.",
+        "A video about delicate, intricate patterns.",
+        "A video about rich, layered effects.",
+        "A video about quick, spontaneous bursts."
+    ],
+    "1": [
+        "A video about a person flipping in the air.",
+        "A video about legs crossing over each other.",
+        "A video about hands touching the ground.",
+        "A video about a full circle rotation.",
+        "A video about a graceful mid-air twist.",
+        "A video about a smooth landing on feet.",
+        "A video about a continuous motion flow.",
+        "A video about a dynamic body movement."
+    ],
+    "2": [
+        "A video about a swift hand reaching out.",
+        "A video about a ball being firmly grasped.",
+        "A video about a sudden, precise movement.",
+        "A video about a player's eyes locked on target.",
+        "A video about the moment of tension released.",
+        "A video about a glove snapping shut.",
+        "A video about the thrill of the catch.",
+        "A video about the crowd's reaction."
+    ],
+    "3": [
+        "A video about [chewy texture]. the output should be in the following format: ['sentence 1', 'sentence 2', 'sentence 3', 'sentence 4', 'sentence 5', 'sentence 6', 'sentence 7', 'sentence 8'].",
+        "A video about [bright colors]. the output should be in the following format: ['sentence 1', 'sentence 2', 'sentence 3', 'sentence 4', 'sentence 5', 'sentence 6', 'sentence 7', 'sentence 8'].",
+        "A video about [fun shapes]. the output should be in the following format: ['sentence 1', 'sentence 2', 'sentence 3', 'sentence 4', 'sentence 5', 'sentence 6', 'sentence 7', 'sentence 8'].",
+        "A video about [fruity aroma]. the output should be in the following format: ['sentence 1', 'sentence 2', 'sentence 3', 'sentence 4', 'sentence 5', 'sentence 6', 'sentence 7', 'sentence 8'].",
+        "A video about [soft consistency]. the output should be in the following format: ['sentence 1', 'sentence 2', 'sentence 3', 'sentence 4', 'sentence 5', 'sentence 6', 'sentence 7', 'sentence 8'].",
+        "A video about [long-lasting chew]. the output should be in the following format: ['sentence 1', 'sentence 2', 'sentence 3', 'sentence 4', 'sentence 5', 'sentence 6', 'sentence 7', 'sentence 8'].",
+        "A video about [satisfying bite]. the output should be in the following format: ['sentence 1', 'sentence 2', 'sentence 3', 'sentence 4', 'sentence 5', 'sentence 6', 'sentence 7', 'sentence 8'].",
+        "A video about [vibrant packaging]. the output should be in the following format: ['sentence 1', 'sentence 2', 'sentence 3', 'sentence 4', 'sentence 5', 'sentence 6', 'sentence 7', 'sentence 8']."
+    ],
+    "4": [
+        "A video about hands coming together.",
+        "A video about palms touching.",
+        "A video about fingers closing.",
+        "A video about a quick motion.",
+        "A video about a sharp sound.",
+        "A video about a rhythmic beat.",
+        "A video about a celebratory gesture.",
+        "A video about a universal signal."
+    ],
+    "5": [
+        "A video about hands gripping rock edges.",
+        "A video about feet finding footholds.",
+        "A video about bodies moving upward.",
+        "A video about ropes securing climbers.",
+        "A video about helmets protecting heads.",
+        "A video about chalk dust in the air.",
+        "A video about belayers watching closely.",
+        "A video about climbers reaching summits."
+    ],
+    "6": [
+        "A video about a person lifting their foot.",
+        "A video about a person placing their foot.",
+        "A video about a person's hand on the rail.",
+        "A video about a person's steady pace.",
+        "A video about a person's focused gaze.",
+        "A video about a person's rhythmic steps.",
+        "A video about a person's balance.",
+        "A video about a person's determination."
+    ],
+    "7": [
+        "A video about the graceful arc of the dive.",
+        "A video about the diver's arms extended.",
+        "A video about the splash upon impact.",
+        "A video about the fluid rotation in air.",
+        "A video about the diver's legs together.",
+        "A video about the water ripples formed.",
+        "A video about the diver's eyes closed.",
+        "A video about the perfect symmetry in motion."
+    ],
+    "8": [
+        "A video about the swift unsheathing motion.",
+        "A video about the glint of the blade.",
+        "A video about the precise grip on the hilt.",
+        "A video about the fluidity of the draw.",
+        "A video about the anticipation in the eyes.",
+        "A video about the tension in the wrist.",
+        "A video about the sound of the sword.",
+        "A video about the focus on the target."
+    ],
+    "9": [
+        "A video about quick foot movements.",
+        "A video about agile body control.",
+        "A video about precise ball handling.",
+        "A video about sudden direction changes.",
+        "A video about maintaining ball speed.",
+        "A video about deceptive feints.",
+        "A video about close defender evasion.",
+        "A video about fluid body coordination."
+    ],
+    "10": [
+        "A video about vibrant neon colors.",
+        "A video about dynamic energy bursts.",
+        "A video about refreshing citrus flavors.",
+        "A video about bold, intense packaging.",
+        "A video about fizzy, effervescent bubbles.",
+        "A video about sleek, modern design.",
+        "A video about invigorating, cool tones.",
+        "A video about powerful, invigorating aromas."
+    ],
+    "11": [
+        "A video about someone picking up a fork.",
+        "A video about chewing with mouth open.",
+        "A video about food being cut with knife.",
+        "A video about a person swallowing food.",
+        "A video about a person licking their lips.",
+        "A video about a person sipping from a cup.",
+        "A video about a person biting an apple.",
+        "A video about a person savoring a bite."
+    ],
+    "12": [
+        "A video about a smooth, seamless transition.",
+        "A video about a sudden, dramatic drop.",
+        "A video about a controlled, safe descent.",
+        "A video about a hidden, mechanical floor.",
+        "A video about a quick, unexpected fall.",
+        "A video about a precise, engineered movement.",
+        "A video about a dramatic, theatrical effect.",
+        "A video about a hidden, trap-like mechanism."
+    ],
+    "13": [
+        "A video about swift lunges and parries.",
+        "A video about precise footwork and balance.",
+        "A video about focused facial expressions.",
+        "A video about rhythmic breathing and movement.",
+        "A video about metallic clashing sounds.",
+        "A video about dynamic body positioning.",
+        "A video about strategic distance control.",
+        "A video about graceful yet powerful strikes."
+    ],
+    "14": [
+        "A video about acrobatic flips and spins.",
+        "A video about rhythmic gymnastics moves.",
+        "A video about graceful aerial maneuvers.",
+        "A video about dynamic body rotations.",
+        "A video about fluid motion in the air.",
+        "A video about synchronized body movements.",
+        "A video about high-energy acrobatics.",
+        "A video about elegant physical expressions."
+    ],
+    "15": [
+        "A video about golfers swinging clubs.",
+        "A video about balls flying through air.",
+        "A video about players walking on grass.",
+        "A video about crowds cheering loudly.",
+        "A video about flags fluttering in wind.",
+        "A video about sand traps and bunkers.",
+        "A video about water hazards nearby.",
+        "A video about players lining up shots."
+    ],
+    "16": [
+        "A video about hands firmly planted on the ground.",
+        "A video about legs extended straight upward.",
+        "A video about a balanced body in mid-air.",
+        "A video about arms supporting the entire weight.",
+        "A video about a strong core for stability.",
+        "A video about feet pointed and aligned.",
+        "A video about a controlled and steady posture.",
+        "A video about a confident and graceful inversion."
+    ],
+    "17": [
+        "A video about intense fight scenes.",
+        "A video about rapid camera movements.",
+        "A video about explosive action sequences.",
+        "A video about dynamic character stunts.",
+        "A video about dramatic lighting effects.",
+        "A video about high-energy choreography.",
+        "A video about thrilling chase scenes.",
+        "A video about powerful visual effects."
+    ],
+    "18": [
+        "A video about arms wrapping around each other.",
+        "A video about warm embraces and smiles.",
+        "A video about gentle squeezes and comfort.",
+        "A video about close contact and affection.",
+        "A video about heartfelt moments and joy.",
+        "A video about tender touches and unity.",
+        "A video about shared warmth and love.",
+        "A video about genuine connection and care."
+    ],
+    "19": [
+        "A video about the swift upward motion.",
+        "A video about the powerful leg thrust.",
+        "A video about the graceful mid-air pause.",
+        "A video about the dynamic body extension.",
+        "A video about the sudden elevation change.",
+        "A video about the controlled descent phase.",
+        "A video about the fluid transition to landing.",
+        "A video about the focused facial expression."
+    ],
+    "20": [
+        "A video about a swift leg movement.",
+        "A video about the ball flying high.",
+        "A video about the player's focused face.",
+        "A video about the crowd's reaction.",
+        "A video about the ball's trajectory.",
+        "A video about the player's stance.",
+        "A video about the ball's impact.",
+        "A video about the player's follow-through."
+    ],
+    "21": [
+        "A video about swift leg movement.",
+        "A video about powerful hip rotation.",
+        "A video about precise foot placement.",
+        "A video about dynamic body balance.",
+        "A video about explosive energy transfer.",
+        "A video about controlled knee extension.",
+        "A video about fluid arm coordination.",
+        "A video about focused facial expression."
+    ],
+    "22": [
+        "A video about close-up shots of lips touching.",
+        "A video about gentle head tilts and movements.",
+        "A video about soft, lingering contact of mouths.",
+        "A video about eyes closing in intimate moments.",
+        "A video about subtle smiles before and after.",
+        "A video about tender embraces holding each other.",
+        "A video about slow, deliberate leaning in actions.",
+        "A video about the exchange of breath between two."
+    ],
+    "23": [
+        "A video about wide-open mouth.",
+        "A video about crinkled eyes.",
+        "A video about shaking shoulders.",
+        "A video about head tilting back.",
+        "A video about deep breaths.",
+        "A video about joyful expression.",
+        "A video about playful gestures.",
+        "A video about contagious energy."
+    ],
+    "24": [
+        "A video about the sharp tip of the pick.",
+        "A video about the smooth grip surface.",
+        "A video about the vibrant color of the pick.",
+        "A video about the flexible material used.",
+        "A video about the precise angle of the pick.",
+        "A video about the ergonomic design shape.",
+        "A video about the reflective shine on the pick.",
+        "A video about the lightweight feel in hand."
+    ],
+    "25": [
+        "A video about liquid flowing smoothly.",
+        "A video about a steady stream of liquid.",
+        "A video about a controlled pour of liquid.",
+        "A video about liquid cascading into a container.",
+        "A video about a gentle, continuous pour.",
+        "A video about liquid splashing slightly.",
+        "A video about a precise, measured pour.",
+        "A video about liquid filling a container evenly."
+    ],
+    "26": [
+        "A video about hands gripping the bar.",
+        "A video about the body lifting up.",
+        "A video about chin reaching above bar.",
+        "A video about controlled descent.",
+        "A video about core engagement.",
+        "A video about rhythmic breathing.",
+        "A video about feet staying still.",
+        "A video about arms fully extended."
+    ],
+    "27": [
+        "A video about a swift arm movement.",
+        "A video about clenched fists.",
+        "A video about a sudden burst of force.",
+        "A video about a forward thrust.",
+        "A video about a focused expression.",
+        "A video about a powerful impact.",
+        "A video about a quick recoil.",
+        "A video about a determined stance."
+    ],
+    "28": [
+        "A video about hands gripping firmly.",
+        "A video about a forward thrust motion.",
+        "A video about shoulders leaning forward.",
+        "A video about feet planted firmly.",
+        "A video about a determined facial expression.",
+        "A video about objects being moved.",
+        "A video about a swift, decisive action.",
+        "A video about a forceful release."
+    ],
+    "29": [
+        "A video about hands placed shoulder-width apart.",
+        "A video about body forming a straight line.",
+        "A video about elbows bending at 90 degrees.",
+        "A video about chest nearly touching the floor.",
+        "A video about core muscles engaged tightly.",
+        "A video about feet together or hip-width apart.",
+        "A video about controlled descent and ascent.",
+        "A video about maintaining a neutral head position."
+    ],
+    "30": [
+        "A video about sleek aerodynamic design.",
+        "A video about vibrant color schemes.",
+        "A video about ergonomic handlebars.",
+        "A video about lightweight alloy frame.",
+        "A video about responsive suspension system.",
+        "A video about high-performance brakes.",
+        "A video about integrated led lights.",
+        "A video about customizable seat options."
+    ],
+    "31": [
+        "A video about the horse's sleek metallic body.",
+        "A video about the horse's glowing neon eyes.",
+        "A video about the horse's dynamic motion sensors.",
+        "A video about the horse's responsive control panel.",
+        "A video about the horse's vibrant led mane.",
+        "A video about the horse's sturdy alloy hooves.",
+        "A video about the horse's immersive sound system.",
+        "A video about the horse's futuristic saddle design."
+    ],
+    "32": [
+        "A video about swift leg movements.",
+        "A video about rhythmic arm swings.",
+        "A video about focused facial expressions.",
+        "A video about dynamic body posture.",
+        "A video about quick foot strikes.",
+        "A video about fluid motion transitions.",
+        "A video about intense breathing patterns.",
+        "A video about determined eye contact."
+    ],
+    "33": [
+        "A video about two hands extending towards each other.",
+        "A video about palms facing and touching gently.",
+        "A video about fingers interlacing briefly.",
+        "A video about a firm grip and release.",
+        "A video about arms moving in a reciprocal motion.",
+        "A video about a smile accompanying the handshake.",
+        "A video about a brief pause before letting go.",
+        "A video about a nod of acknowledgment during the shake."
+    ],
+    "34": [
+        "A video about players aiming precisely.",
+        "A video about the ball flying fast.",
+        "A video about intense concentration.",
+        "A video about quick reflexes.",
+        "A video about the ball hitting the target.",
+        "A video about players moving swiftly.",
+        "A video about the ball's trajectory.",
+        "A video about the excitement in the air."
+    ],
+    "35": [
+        "A video about precise arrow release.",
+        "A video about focused archer stance.",
+        "A video about steady bow hold.",
+        "A video about calm breathing technique.",
+        "A video about target lock-on.",
+        "A video about smooth draw motion.",
+        "A video about arrow flight path.",
+        "A video about successful bullseye hit."
+    ],
+    "36": [
+        "A video about the shooter's steady stance.",
+        "A video about the gun's rapid recoil.",
+        "A video about the target's precise hit.",
+        "A video about the shooter's focused eyes.",
+        "A video about the gun's sleek design.",
+        "A video about the shooter's quick reload.",
+        "A video about the target's distant impact.",
+        "A video about the shooter's calm demeanor."
+    ],
+    "37": [
+        "A video about a person sitting down.",
+        "A video about the posture adjustment.",
+        "A video about the body lowering.",
+        "A video about the legs bending.",
+        "A video about the hands resting.",
+        "A video about the eyes closing.",
+        "A video about the breath relaxing.",
+        "A video about the mind calming."
+    ],
+    "38": [
+        "A video about hands clasped behind the head.",
+        "A video about feet flat on the floor.",
+        "A video about the torso lifting up.",
+        "A video about the elbows touching the knees.",
+        "A video about controlled descent to the floor.",
+        "A video about rhythmic up-and-down motion.",
+        "A video about steady breathing throughout.",
+        "A video about maintaining a straight back."
+    ],
+    "39": [
+        "A video about a genuine smile.",
+        "The video shows a warm grin.",
+        "A video about a joyful expression.",
+        "The video captures a bright smile.",
+        "A video about a happy face.",
+        "The video reveals a cheerful look.",
+        "A video about a delighted smile.",
+        "The video portrays a happy moment."
+    ],
+    "40": [
+        "A video about swirling smoke patterns.",
+        "A video about rising smoke clouds.",
+        "A video about smoke dissipating slowly.",
+        "A video about smoke curling upwards.",
+        "A video about smoke billowing softly.",
+        "A video about smoke blending with air.",
+        "A video about smoke forming shapes.",
+        "A video about smoke fading gently."
+    ],
+    "41": [
+        "A video about a person flipping head over heels.",
+        "The somersault starts with a forward leap.",
+        "The body curls into a tight ball.",
+        "The legs swing over the head.",
+        "The hands push off the ground.",
+        "The body uncurls mid-air.",
+        "The landing is on both feet.",
+        "The somersault ends with a steady stance."
+    ],
+    "42": [
+        "A video about a sturdy metal base.",
+        "A video about adjustable height settings.",
+        "A video about a secure clamp design.",
+        "A video about a sleek black finish.",
+        "A video about easy-to-use controls.",
+        "A video about a versatile tripod head.",
+        "A video about a non-slip rubber grip.",
+        "A video about compact folding mechanism."
+    ],
+    "43": [
+        "A video about the batter's stance.",
+        "A video about the windup motion.",
+        "A video about the bat's swing path.",
+        "A video about the ball's trajectory.",
+        "A video about the follow-through.",
+        "A video about the fielders' reactions.",
+        "A video about the crowd's excitement.",
+        "A video about the umpire's call."
+    ],
+    "44": [
+        "A video about swift sword movements.",
+        "The video showcases precise footwork.",
+        "It highlights fluid transitions between stances.",
+        "The video captures the elegance of the sword.",
+        "It demonstrates controlled breathing techniques.",
+        "The video shows the intensity of focus.",
+        "It emphasizes the importance of balance.",
+        "The video illustrates the power of each strike."
+    ],
+    "45": [
+        "A video about sleek, aerodynamic design.",
+        "A video about razor-sharp, gleaming edges.",
+        "A video about intricate, engraved patterns.",
+        "A video about ergonomic, comfortable grip.",
+        "A video about vibrant, glowing runes.",
+        "A video about lightweight, agile handling.",
+        "A video about durable, high-quality steel.",
+        "A video about dynamic, fluid movements."
+    ],
+    "46": [
+        "A video about dynamic hand gestures.",
+        "A video about expressive facial expressions.",
+        "A video about animated body movements.",
+        "A video about intense eye contact.",
+        "A video about rhythmic head nods.",
+        "A video about emphatic arm waves.",
+        "A video about lively vocal tones.",
+        "A video about engaging posture shifts."
+    ],
+    "47": [
+        "A video about dynamic movements.",
+        "A video about precise throws.",
+        "A video about fluid transitions.",
+        "A video about powerful releases.",
+        "A video about focused concentration.",
+        "A video about swift reactions.",
+        "A video about controlled force.",
+        "A video about strategic placement."
+    ],
+    "48": [
+        "A video about swift movements.",
+        "A video about precise footwork.",
+        "A video about dynamic poses.",
+        "A video about fluid transitions.",
+        "A video about rhythmic patterns.",
+        "A video about expressive gestures.",
+        "A video about intense focus.",
+        "A video about graceful coordination."
+    ],
+    "49": [
+        "A video about rhythmic arm swings.",
+        "A video about steady foot placement.",
+        "A video about fluid body movement.",
+        "A video about balanced strides.",
+        "A video about relaxed posture.",
+        "A video about natural gait.",
+        "A video about smooth transitions.",
+        "A video about confident strides."
+    ],
+    "50": [
+        "A video about the rhythmic motion.",
+        "A video about the fluid transitions.",
+        "A video about the dynamic flow.",
+        "A video about the synchronized movements.",
+        "A video about the graceful arcs.",
+        "A video about the continuous loops.",
+        "A video about the smooth undulations.",
+        "A video about the mesmerizing patterns."
+    ]
+}

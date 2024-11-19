@@ -1,0 +1,106 @@
+{
+    "0": [
+        "A video of pour generally involves the following step: lifting the container, which is a sub-step.",
+        "A video of pour generally involves the following step: tilting the container, which is a sub-step."
+    ],
+    "1": [
+        "A video of a pullup generally involves the following step: initiating from a hanging position, which is a sub-step.",
+        "A video of a pullup generally involves the following step: pulling the body upward, which is a sub-step."
+    ],
+    "2": [
+        "A video of a punch generally involves the following step: arm retraction, which is a sub-step.",
+        "A video of a punch generally involves the following step: rapid extension, which is a sub-step."
+    ],
+    "3": [
+        "A video of a push generally involves the following step: hand contact with the object, which is a sub-step.",
+        "A video of a push generally involves the following step: applying force, which is another sub-step."
+    ],
+    "4": [
+        "A video of pushup generally involves the following step: lowering the body to the ground, which is a sub-step.",
+        "A video of pushup generally involves the following step: pushing the body back up, which is a sub-step."
+    ],
+    "5": [
+        "A video of ride bike generally involves the following step: mounting the bike, which is a sub-step.",
+        "A video of ride bike generally involves the following step: pedaling forward, which is a sub-step."
+    ],
+    "6": [
+        "A video of ride horse generally involves the following step: mounting the horse, which is a sub-step.",
+        "A video of ride horse generally involves the following step: guiding the horse, which is a sub-step."
+    ],
+    "7": [
+        "A video of a run generally involves the following step: initial acceleration, which is a sub-step.",
+        "A video of a run generally involves the following step: sustained pace, which is a sub-step."
+    ],
+    "8": [
+        "A video of shake hands generally involves the following step: extending arms towards each other, which is a sub-step.",
+        "A video of shake hands generally involves the following step: grasping each other's hands firmly, which is a sub-step."
+    ],
+    "9": [
+        "A video of shoot ball generally involves the following step: raising the arm, which is a sub-step.",
+        "A video of shoot ball generally involves the following step: releasing the ball, which is a sub-step."
+    ],
+    "10": [
+        "A video of shoot bow generally involves the following step: drawing the bowstring, which is a sub-step.",
+        "A video of shoot bow generally involves the following step: releasing the bowstring, which is a sub-step."
+    ],
+    "11": [
+        "A video of shoot gun generally involves the following step: raising the gun to the shoulder, which is a sub-step.",
+        "A video of shoot gun generally involves the following step: pulling the trigger, which is a sub-step."
+    ],
+    "12": [
+        "A video of sit generally involves the following step: lowering the body to a seated position, which is a sub-step.",
+        "A video of sit generally involves the following step: maintaining the seated posture, which is a sub-step."
+    ],
+    "13": [
+        "A video of situps generally involves the following step: lowering the torso to the floor, which is a sub-step.",
+        "A video of situps generally involves the following step: raising the torso to a sitting position, which is a sub-step."
+    ],
+    "14": [
+        "A video of a smile generally involves the following step: facial muscles contracting, which is a sub-step.",
+        "A video of a smile generally involves the following step: lips curving upward, which is a sub-step."
+    ],
+    "15": [
+        "A video of smoke generally involves the following step: initial ignition, which is a sub-step.",
+        "A video of smoke generally involves the following step: sustained burning, which is a sub-step."
+    ],
+    "16": [
+        "A video of somersault generally involves the following step: initial forward leap, which is a sub-step.",
+        "A video of somersault generally involves the following step: subsequent rotation in mid-air, which is a sub-step."
+    ],
+    "17": [
+        "A video of standing generally involves the following step: lifting the body upward, which is a sub-step.",
+        "A video of standing generally involves the following step: stabilizing the posture, which is a sub-step."
+    ],
+    "18": [
+        "A videos of swing baseball generally involves the following step: raising the bat to shoulder height, which is a sub-step.",
+        "A videos of swing baseball generally involves the following step: following through with the swing, which is a sub-step."
+    ],
+    "19": [
+        "A video of sword exercise generally involves the following step: initial stance preparation, which is a sub-step.",
+        "A video of sword exercise generally involves the following step: subsequent movement execution, which is a sub-step."
+    ],
+    "20": [
+        "A videos of sword generally involves the following step: drawing the blade swiftly, which is a sub-step.",
+        "A videos of sword generally involves the following step: striking the target precisely, which is a sub-step."
+    ],
+    "21": [
+        "A video of talk generally involves the following step: preparation of content, which is a sub-step.",
+        "A video of talk generally involves the following step: delivery of content, which is a sub-step."
+    ],
+    "22": [
+        "A video of a throw generally involves the following step: arm cocking, which is a sub-step.",
+        "A video of a throw generally involves the following step: arm release, which is a sub-step."
+    ],
+    "23": [
+        "A video of a turn generally involves the following step: initial body rotation, which is a sub-step.",
+        "A video of a turn generally involves the following step: subsequent leg extension, which is a sub-step."
+    ],
+    "24": [
+        "A video of a walk generally involves the following step: lifting the foot, which is a sub-step.",
+        "A video of a walk generally involves the following step: moving the leg forward, which is a sub-step."
+    ],
+    "25": [
+        "A videos of wave generally involves the following step: initial crest formation, which is a sub-step.",
+        "A videos of wave generally involves the following step: subsequent trough propagation, which is a sub-step."
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "0": [
+        "A video of pouring something into something generally involves the following step: lifting the container, which is a sub-step.",
+        "A video of pouring something into something generally involves the following step: tilting the container, which is a sub-step."
+    ],
+    "1": [
+        "A video of throwing something onto a surface generally involves the following step: lifting the object above the surface, which is a sub-step.",
+        "A video of throwing something onto a surface generally involves the following step: releasing the object to fall onto the surface, which is a sub-step."
+    ],
+    "2": [
+        "A video of moving something away from the camera generally involves the following step: [grasping the object], which is a sub-step.",
+        "A video of moving something away from the camera generally involves the following step: [pulling the object away], which is a sub-step."
+    ],
+    "3": [
+        "A video of dropping something in front of something generally involves the following step: releasing the object, which is a sub-step.",
+        "A video of dropping something in front of something generally involves the following step: object falling, which is a sub-step."
+    ],
+    "4": [
+        "A video of dropping something into something generally involves the following step: releasing the object, which is a sub-step.",
+        "A video of dropping something into something generally involves the following step: the object falling, which is a sub-step."
+    ],
+    "5": [
+        "A video of removing something, revealing something behind generally involves the following step: removing the object, which is a sub-step.",
+        "A video of removing something, revealing something behind generally involves the following step: revealing the hidden item, which is a sub-step."
+    ],
+    "6": [
+        "A video of moving something closer to something generally involves the following step: lifting the object, which is a sub-step.",
+        "A video of moving something closer to something generally involves the following step: positioning the object closer, which is a sub-step."
+    ],
+    "7": [
+        "A video of pretending to close something without actually closing it generally involves the following step: initiating the motion of closing, which is a sub-step.",
+        "A video of pretending to close something without actually closing it generally involves the following step: halting the motion before completion, which is a sub-step."
+    ],
+    "8": [
+        "A video of moving something away from something generally involves the following step: lifting the object, which is a sub-step.",
+        "A video of moving something away from something generally involves the following step: moving the object away, which is a sub-step."
+    ],
+    "9": [
+        "A video of pretending to throw something generally involves the following step: raising the arm, which is a sub-step.",
+        "A video of pretending to throw something generally involves the following step: extending the arm forward, which is a sub-step."
+    ],
+    "10": [
+        "A video of showing something on top of something generally involves the following step: [placing the object on top], which is a sub-step.",
+        "A video of showing something on top of something generally involves the following step: [adjusting the object's position], which is a sub-step."
+    ],
+    "11": [
+        "A video of pretending to take something out of something generally involves the following step: reaching into the container, which is a sub-step.",
+        "A video of pretending to take something out of something generally involves the following step: pulling out the imaginary item, which is a sub-step."
+    ],
+    "12": [
+        "A video of tilting something with something on it until it falls off generally involves the following step: slowly tilting the object, which is a sub-step.",
+        "A video of tilting something with something on it until it falls off generally involves the following step: allowing the item to fall off, which is a sub-step."
+    ],
+    "13": [
+        "A video of scooping something up with something generally involves the following step: positioning the scooping tool, which is a sub-step.",
+        "A video of scooping something up with something generally involves the following step: lifting the scooped item, which is a sub-step."
+    ],
+    "14": [
+        "A video of throwing something in the air and catching it generally involves the following step: object propelled upwards, which is a sub-step.",
+        "A video of throwing something in the air and catching it generally involves the following step: object caught after descent, which is a sub-step."
+    ],
+    "15": [
+        "A videos of putting number of something onto something generally involves the following step: selecting the number, which is a sub-step.",
+        "A videos of putting number of something onto something generally involves the following step: placing the number onto the object, which is a sub-step."
+    ],
+    "16": [
+        "A video of pushing something so that it almost falls off but doesn't generally involves the following step: applying force gradually, which is a sub-step.",
+        "A video of pushing something so that it almost falls off but doesn't generally involves the following step: observing the object's balance, which is a sub-step."
+    ],
+    "17": [
+        "A video of folding something generally involves the following step: aligning edges evenly, which is a sub-step.",
+        "A video of folding something generally involves the following step: pressing down firmly, which is a sub-step."
+    ],
+    "18": [
+        "A video of picking something up generally involves the following step: reaching for the object, which is a sub-step.",
+        "A video of picking something up generally involves the following step: grasping the object, which is a sub-step."
+    ],
+    "19": [
+        "A video of dropping something next to something generally involves the following step: releasing the object, which is a sub-step.",
+        "A video of dropping something next to something generally involves the following step: positioning the object, which is a sub-step."
+    ],
+    "20": [
+        "A video of putting something, something and something on the table generally involves the following step: [placing the first item on the table], which is a sub-step.",
+        "A video of putting something, something and something on the table generally involves the following step: [placing the second and third items sequentially], which is a sub-step."
+    ],
+    "21": [
+        "A video of holding something behind something generally involves the following step: moving the object to the rear, which is a sub-step.",
+        "A video of holding something behind something generally involves the following step: positioning the object behind, which is a sub-step."
+    ],
+    "22": [
+        "A video of turning the camera right while filming something generally involves the following step: rotating the camera to the right, which is a sub-step.",
+        "A video of turning the camera right while filming something generally involves the following step: maintaining the rotation while recording, which is a sub-step."
+    ],
+    "23": [
+        "A video of turning the camera left while filming something generally involves the following step: rotating the camera left, which is a sub-step.",
+        "A video of turning the camera left while filming something generally involves the following step: maintaining the filming, which is a sub-step."
+    ],
+    "24": [
+        "A video of stacking number of something generally involves the following step: objects are gathered, which is a sub-step.",
+        "A video of stacking number of something generally involves the following step: objects are arranged, which is a sub-step."
+    ],
+    "25": [
+        "A video of taking something from somewhere generally involves the following step: reaching for the object, which is a sub-step.",
+        "A video of taking something from somewhere generally involves the following step: grasping the object, which is a sub-step."
+    ],
+    "26": [
+        "A video of pretending to put something into something generally involves the following step: lifting the object, which is a sub-step.",
+        "A video of pretending to put something into something generally involves the following step: moving the object towards the container, which is a sub-step."
+    ],
+    "27": [
+        "A video of closing something generally involves the following step: aligning the edges, which is a sub-step.",
+        "A video of closing something generally involves the following step: pressing down firmly, which is a sub-step."
+    ],
+    "28": [
+        "A video of spinning something that quickly stops spinning generally involves the following step: deceleration initiated, which is a sub-step.",
+        "A video of spinning something that quickly stops spinning generally involves the following step: final cessation achieved, which is a sub-step."
+    ],
+    "29": [
+        "A video of moving away from something with your camera generally involves the following step: [initial positioning of the camera], which is a sub-step.",
+        "A video of moving away from something with your camera generally involves the following step: [gradually increasing distance], which is a sub-step."
+    ],
+    "30": [
+        "A video of something falling like a feather or paper generally involves the following step: initial descent with minimal resistance, which is a sub-step.",
+        "A video of something falling like a feather or paper generally involves the following step: gradual deceleration due to air resistance, which is a sub-step."
+    ],
+    "31": [
+        "A video of putting something and something on the table generally involves the following step: lifting the objects, which is a sub-step.",
+        "A video of putting something and something on the table generally involves the following step: placing the objects on the table, which is a sub-step."
+    ],
+    "32": [
+        "A video of dropping something onto something generally involves the following step: releasing the object above the target, which is a sub-step.",
+        "A video of dropping something onto something generally involves the following step: allowing the object to fall freely, which is a sub-step."
+    ],
+    "33": [
+        "A video of approaching something with your camera generally involves the following step: raising the camera to eye level, which is a sub-step.",
+        "A video of approaching something with your camera generally involves the following step: adjusting focus and framing, which is a sub-step."
+    ],
+    "34": [
+        "A video of plugging something into something generally involves the following step: aligning the plug with the socket, which is a sub-step.",
+        "A video of plugging something into something generally involves the following step: inserting the plug into the socket, which is a sub-step."
+    ],
+    "35": [
+        "A video of pretending to put something next to something generally involves the following step: reaching for the object, which is a sub-step.",
+        "A video of pretending to put something next to something generally involves the following step: positioning the object, which is a sub-step."
+    ],
+    "36": [
+        "A video of pretending to take something from somewhere generally involves the following step: reaching towards the object, which is a sub-step.",
+        "A video of pretending to take something from somewhere generally involves the following step: grasping the air, which is a sub-step."
+    ],
+    "37": [
+        "A video of putting something behind something generally involves the following step: lifting the object, which is a sub-step.",
+        "A video of putting something behind something generally involves the following step: moving the object behind, which is a sub-step."
+    ],
+    "38": [
+        "A video of showing that something is inside something generally involves the following step: [object is positioned near the opening], which is a sub-step.",
+        "A video of showing that something is inside something generally involves the following step: [object is inserted into the container], which is a sub-step."
+    ],
+    "39": [
+        "A video of opening something generally involves the following step: grasping the object, which is a sub-step.",
+        "A video of opening something generally involves the following step: applying force to the lid, which is a sub-step."
+    ],
+    "40": [
+        "A video of throwing something against something generally involves the following step: lifting the object above the shoulder, which is a sub-step.",
+        "A video of throwing something against something generally involves the following step: releasing the object with force, which is a sub-step."
+    ],
+    "41": [
+        "A video of rolling something on a flat surface generally involves the following step: applying initial force, which is a sub-step.",
+        "A video of rolling something on a flat surface generally involves the following step: maintaining constant motion, which is a sub-step."
+    ],
+    "42": [
+        "A video of holding something over something generally involves the following step: lifting the object above the target, which is a sub-step.",
+        "A video of holding something over something generally involves the following step: maintaining the object's position above the target, which is a sub-step."
+    ],
+    "43": [
+        "A video of tearing something just a little bit generally involves the following step: applying slight pressure to the material, which is a sub-step.",
+        "A video of tearing something just a little bit generally involves the following step: gently pulling apart the material, which is a sub-step."
+    ],
+    "44": [
+        "A video of poking something so it slightly moves generally involves the following step: applying force to the object, which is a sub-step.",
+        "A video of poking something so it slightly moves generally involves the following step: observing the object's slight movement, which is a sub-step."
+    ],
+    "45": [
+        "A videos of stuffing something into something generally involves the following step: grasping the object, which is a sub-step.",
+        "A videos of stuffing something into something generally involves the following step: inserting the object, which is a sub-step."
+    ],
+    "46": [
+        "A video of something falling like a rock generally involves the following step: initial acceleration due to gravity, which is a sub-step.",
+        "A video of something falling like a rock generally involves the following step: continuous descent with increasing velocity, which is a sub-step."
+    ],
+    "47": [
+        "A video of pretending to put something on a surface generally involves the following step: lifting the object to the height of the surface, which is a sub-step.",
+        "A video of pretending to put something on a surface generally involves the following step: moving the object horizontally towards the surface, which is a sub-step."
+    ],
+    "48": [
+        "A video of holding something next to something generally involves the following step: moving the object to the desired position, which is a sub-step.",
+        "A video of holding something next to something generally involves the following step: maintaining the object in proximity, which is a sub-step."
+    ],
+    "49": [
+        "A videos of lifting up one end of something without letting it drop down generally involves the following step: initiating the lift, which is a sub-step.",
+        "A videos of lifting up one end of something without letting it drop down generally involves the following step: maintaining the elevation, which is a sub-step."
+    ],
+    "50": [
+        "A video of pushing something with something generally involves the following step: aligning the object with the force, which is a sub-step.",
+        "A video of pushing something with something generally involves the following step: applying the force to the object, which is a sub-step."
+    ],
+    "51": [
+        "A video of holding something generally involves the following step: grasping the object, which is a sub-step.",
+        "A video of holding something generally involves the following step: maintaining the grip, which is a sub-step."
+    ],
+    "52": [
+        "A video of touching (without moving) part of something generally involves the following step: initial contact established, which is a sub-step.",
+        "A video of touching (without moving) part of something generally involves the following step: sustained contact maintained, which is a sub-step."
+    ],
+    "53": [
+        "A video of pretending to open something without actually opening it generally involves the following step: moving the hand towards the object, which is a sub-step.",
+        "A video of pretending to open something without actually opening it generally involves the following step: mimicking the opening motion, which is a sub-step."
+    ],
+    "54": [
+        "A video of lifting something with something on it generally involves the following step: lifting the object first, which is a sub-step.",
+        "A video of lifting something with something on it generally involves the following step: lifting the item on top afterward, which is a sub-step."
+    ],
+    "55": [
+        "A video of moving something and something away from each other generally involves the following step: initiating the separation, which is a sub-step.",
+        "A video of moving something and something away from each other generally involves the following step: maintaining the distance, which is a sub-step."
+    ],
+    "56": [
+        "A video of pretending to pick something up generally involves the following step: extending the hand towards the object, which is a sub-step.",
+        "A video of pretending to pick something up generally involves the following step: closing the fingers around the object, which is a sub-step."
+    ],
+    "57": [
+        "A video of pulling something from left to right generally involves the following step: initiating contact with the object, which is a sub-step.",
+        "A video of pulling something from left to right generally involves the following step: applying force to move the object, which is a sub-step."
+    ],
+    "58": [
+        "A videos of moving something and something closer to each other generally involves the following step: [initiating the movement], which is a sub-step.",
+        "A videos of moving something and something closer to each other generally involves the following step: [continuing the movement], which is a sub-step."
+    ],
+    "59": [
+        "A video of pulling something from right to left generally involves the following step: initiating the movement, which is a sub-step.",
+        "A video of pulling something from right to left generally involves the following step: completing the movement, which is a sub-step."
+    ],
+    "60": [
+        "A video of lifting something up completely involves raising the object to its maximum height, which is a sub-step.",
+        "A video of letting it drop down involves releasing the object, allowing it to fall freely, which is a sub-step."
+    ],
+    "61": [
+        "A video of lifting up one end of something generally involves the following step: raising the end over a short duration, which is a sub-step.",
+        "A video of letting it drop down generally involves the following step: releasing the end and allowing it to fall, which is a sub-step."
+    ],
+    "62": [
+        "A videos of putting something onto something generally involves the following step: lifting the object, which is a sub-step.",
+        "A videos of putting something onto something generally involves the following step: positioning the object, which is a sub-step."
+    ],
+    "63": [
+        "A video of showing that something is empty generally involves the following step: [removing contents], which is a sub-step.",
+        "A video of showing that something is empty generally involves the following step: [displaying emptiness], which is a sub-step."
+    ],
+    "64": [
+        "A videos of lifting something up completely without letting it drop down generally involves the following step: initiating the upward motion, which is a sub-step.",
+        "A videos of lifting something up completely without letting it drop down generally involves the following step: maintaining the upward motion until completion, which is a sub-step."
+    ],
+    "65": [
+        "A video of showing something behind something generally involves the following step: moving the object to the front, which is a sub-step.",
+        "A video of showing something behind something generally involves the following step: revealing the hidden object, which is a sub-step."
+    ],
+    "66": [
+        "A video of pushing something so that it falls off the table generally involves the following step: initial contact with the object, which is a sub-step.",
+        "A video of pushing something so that it falls off the table generally involves the following step: subsequent acceleration of the object, which is a sub-step."
+    ],
+    "67": [
+        "A video of taking something out of something generally involves the following step: reaching for the object, which is a sub-step.",
+        "A video of taking something out of something generally involves the following step: pulling the object out, which is a sub-step."
+    ],
+    "68": [
+        "A video of tearing something into two pieces generally involves the following step: gripping the object firmly, which is a sub-step.",
+        "A video of tearing something into two pieces generally involves the following step: applying force to separate, which is a sub-step."
+    ],
+    "69": [
+        "A video of hitting something with something generally involves the following step: raising the object to be swung, which is a sub-step.",
+        "A video of hitting something with something generally involves the following step: bringing the object down forcefully, which is a sub-step."
+    ],
+    "70": [
+        "A videos of putting something similar to other things that are already on the table generally involves the following step: selecting an appropriate item, which is a sub-step.",
+        "A videos of putting something similar to other things that are already on the table generally involves the following step: positioning the selected item on the table, which is a sub-step."
+    ],
+    "71": [
+        "A videos of holding something in front of something generally involves the following step: positioning the object in front, which is a sub-step.",
+        "A videos of holding something in front of something generally involves the following step: maintaining the hold for a duration, which is a sub-step."
+    ],
+    "72": [
+        "A video of pushing something so that it slightly moves generally involves the following step: applying force to the object, which is a sub-step.",
+        "A video of pushing something so that it slightly moves generally involves the following step: observing the object's slight movement, which is a sub-step."
+    ],
+    "73": [
+        "A video of squeezing something generally involves the following step: gripping the object firmly, which is a sub-step.",
+        "A video of squeezing something generally involves the following step: applying pressure to compress, which is a sub-step."
+    ],
+    "74": [
+        "A video of putting something next to something generally involves the following step: moving the object to the desired location, which is a sub-step.",
+        "A video of putting something next to something generally involves the following step: positioning the object adjacent to the target, which is a sub-step."
+    ],
+    "75": [
+        "A video of turning something upside down generally involves the following step: lifting the object, which is a sub-step.",
+        "A video of turning something upside down generally involves the following step: inverting the object, which is a sub-step."
+    ],
+    "76": [
+        "A video of poking something so lightly that it doesn't or almost doesn't move generally involves the following step: gently extending the finger towards the object, which is a sub-step.",
+        "A video of poking something so lightly that it doesn't or almost doesn't move generally involves the following step: barely making contact with the object, which is a sub-step."
+    ],
+    "77": [
+        "A videos of putting something into something generally involves the following step: lifting the object, which is a sub-step.",
+        "A videos of putting something into something generally involves the following step: positioning the object, which is a sub-step."
+    ],
+    "78": [
+        "A video of throwing something generally involves the following step: arm movement initiation, which is a sub-step.",
+        "A video of throwing something generally involves the following step: object release, which is a sub-step."
+    ],
+    "79": [
+        "A video of taking one of many similar things on the table generally involves the following step: reaching for the object, which is a sub-step.",
+        "A video of taking one of many similar things on the table generally involves the following step: grasping the object, which is a sub-step."
+    ],
+    "80": [
+        "A videos of uncovering something generally involves the following step: removing the covering material, which is a sub-step.",
+        "A videos of uncovering something generally involves the following step: revealing the hidden object, which is a sub-step."
+    ],
+    "81": [
+        "A video of pushing something from right to left generally involves the following step: moving the object to the left, which is a sub-step.",
+        "A video of pushing something from right to left generally involves the following step: applying force on the right side, which is a sub-step."
+    ],
+    "82": [
+        "A video of covering something with something generally involves the following step: positioning the covering material, which is a sub-step.",
+        "A video of covering something with something generally involves the following step: applying the covering material, which is a sub-step."
+    ],
+    "83": [
+        "A video of moving something down generally involves the following step: lowering the object, which is a sub-step.",
+        "A video of moving something down generally involves the following step: releasing the object, which is a sub-step."
+    ],
+    "84": [
+        "A video of pushing something from left to right generally involves the following step: initiating the push, which is a sub-step.",
+        "A video of pushing something from left to right generally involves the following step: completing the push, which is a sub-step."
+    ],
+    "85": [
+        "A video of moving something up generally involves the following step: lifting the object, which is a sub-step.",
+        "A video of moving something up generally involves the following step: positioning the object, which is a sub-step."
+    ],
+    "86": [
+        "A video of putting something on a surface generally involves the following step: lifting the object, which is a sub-step.",
+        "A video of putting something on a surface generally involves the following step: positioning the object above the surface, which is a sub-step."
+    ]
+}
