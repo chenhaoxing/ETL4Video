@@ -4,7 +4,7 @@ This is the official code of paper 'Efficient Transfer Learning for Video-langua
 
 - [] Release code.
 
-# :space_invader: Citing MSTA
+## :space_invader: Citing MSTA
 If you use GenVideo or MSTA in your research or use the codebase here, please use the following BibTeX entry.
 
 ```BibTeX
