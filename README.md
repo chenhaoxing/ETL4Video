@@ -8,10 +8,10 @@ This is the official code of CVPR'25 paper 'Efficient Transfer Learning for Vide
 If you use GenVideo or MSTA in your research or use the codebase here, please use the following BibTeX entry.
 
 ```BibTeX
-@article{DeMamba,
+@inproceedings{CVPR25_ETL4VLM,
       title={Efficient Transfer Learning for Video-language Foundation Models},
       author={Haoxing Chen and Zizheng Huang and Yan Hong and Yanshuo Wang and Zhongcai Lyu and Zhuoer Xu and Jun Lan and Zhangxuan Gu},
-      proceedings={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
       year={2025}
 }
 ```
