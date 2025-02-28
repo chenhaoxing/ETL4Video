@@ -5,7 +5,7 @@ This is the official code of CVPR'25 paper 'Efficient Transfer Learning for Vide
 - [] Release code.
 
 ## :space_invader: Citing MSTA
-If you use GenVideo or MSTA in your research or use the codebase here, please use the following BibTeX entry.
+If you use MSTA in your research or use the codebase here, please use the following BibTeX entry.
 
 ```BibTeX
 @inproceedings{CVPR25_ETL4VLM,
